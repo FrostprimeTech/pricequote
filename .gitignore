@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+streamlit.log
+.vscode/
+
+# Legacy Random Forest models — superseded by rate_card.py, not used by app.py
+model_local_shuttle.joblib
+model_outstation_linehaul.joblib
+
+# Numbers file is a local working copy of the source CSV, not needed to run the app
+Courier Trip Schedule.numbers

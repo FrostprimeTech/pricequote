@@ -1,0 +1,1819 @@
+Date,City ,Service Type,Vehicle Size,From,Loading Point 2,No.of U/L,Final_Destination,Rate,Distance (km)
+01-07-2026,PUNE,Per Trip,9 FT,Pune,,2,Solapur / Latur,17500,385
+01-07-2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Gwalior,22000,430
+01-07-2026,RAJPURA,Per Trip,8 FT,Rajpura,,2,Jammu,18880,385
+01-07-2026,PATNA,Per Trip,9 FT,Patna,,2,Siliguri,29000,450
+01-07-2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,7,Jamshedpur / Ranchi,25000,390
+01-07-2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+01-07-2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,6,Durgapur / Asansol / Dhanbad,21000,260
+01-07-2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,2,Cochin,16000,190
+01-07-2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Hubli,28000,415
+01-07-2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anekal,1,Coimbatore,21000,365
+01-07-2026,BENGALURU,Per Trip,10 FT,Anjaneya,Tavarekere,1,Chitradurga / Tumkur,16500,200
+01-07-2026,BENGALURU,Per Trip,10 FT,Anjaneya,Tavarekere,2,Hosur / Salem,19000,200
+01-07-2026,PATNA,Per Trip,8 FT,Patna,,3,Siliguri / Jalpaiguri,31000,490
+01-07-2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,6,Durgapur / Asansol / Dhanbad,21000,270
+01-07-2026,PATNA,Per Trip,9 FT,Patna,,1,Purnia / Katihar,21000,310
+01-07-2026,PATNA,Per Trip,11 FT,Patna,,4,Siliguri,29000,450
+01-07-2026,PATNA,Per Trip,9 FT,Patna,,1,Purnia / Katihar,21000,310
+02-07-2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+02-07-2026,JAIPUR,Per Trip,Tata 407,Jaipur,,6,Udaipur,19000,395
+02-07-2026,LUDHIANA,Per Trip,8 FT,Ludhiana,,1,Shri Ganganagar,15000,250
+02-07-2026,PATNA,Per Trip,8 FT,Patna,,1,Siliguri,29000,450
+02-07-2026,PATNA,Per Trip,9 FT,Patna,,2,Siliguri,29000,450
+02-07-2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,5,Karur / Tirchy / Thanjavur,21000,270
+02-07-2026,PATNA,Per Trip,9 FT,Patna,,2,Bhagalpur,17000,250
+02-07-2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+03/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+03/07/2026,RAJPURA,Per Trip,10 FT,Rajpura,,3,Jammu,18000,385
+03/07/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,1,Dibrugarh,21000,440
+03/07/2026,PATNA,Per Trip,9 FT,Patna,,2,Purnia / Katihar,21000,310
+03/07/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,6,Durgapur / Asansol / Dhanbad,21000,260
+03/07/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,8,Jamshedpur / Ranchi,25000,385
+03/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,21000,270
+03/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,25000,390
+03/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anjaneya,1,Salem,17000,205
+03/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,Tavarekere,2,Chitradurga / Tumkur,16500,200
+03/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anekal,1,Hubli,28000,415
+03/07/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,3,Trissur / Palakkad,12000,115
+03/07/2026,PATNA,Per Trip,9 FT,Patna,,2,Dumka,22500,270
+03/07/2026,PATNA,Per Trip,8 FT,Patna,,2,Deoghar,18000,250
+03/07/2026,PATNA,Per Trip,8 FT,Patna,,3,Siliguri / Jalpaiguri,31000,490
+03/07/2026,PATNA,Per Trip,8 FT,Patna,,4,Siliguri,29000,450
+04/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+04/07/2026,PATNA,Per Trip,9 FT,Patna,,1,Siliguri,29000,450
+04/07/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,,Srinagar J&K,32000,530
+04/07/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,1,Tinsukiya,21000,485
+04/07/2026,PATNA,Per Trip,8 FT,Patna,,1,Katihar,20500,300
+04/07/2026,PATNA,Per Trip,9 FT,Patna,,1,Deoghar,18000,250
+05/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+05/07/2026,JAIPUR,Per Trip,Tata 407,Jaipur,,3,Jodhpur,17500,335
+05/07/2026,RAJPURA,Per Trip,8 FT,Rajpura,,2,Jammu,18880,385
+05/07/2026,PATNA,Per Trip,10 FT,Patna,,2,Siliguri,29000,450
+05/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anjaneya,2,Salem,17000,205
+05/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,Tavarekere,2,Chitradurga / Tumkur,16500,200
+05/07/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,8,Jamshedpur / Ranchi,25000,385
+05/07/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,6,Durgapur / Asansol / Dhanbad,21000,260
+05/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,6,Jamshedpur / Ranchi,25000,390
+05/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,3,Durgapur / Asansol / Dhanbad,21000,270
+05/07/2026,PATNA,Per Trip,11 FT,Patna,,4,Siliguri / Jalpaiguri,31000,490
+06/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+06/07/2026,RAJPURA,Per Trip,10 FT,Rajpura,,3,Jammu,18000,385
+06/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,5,Durgapur / Asansol / Dhanbad,21000,270
+06/07/2026,PATNA,Per Trip,8 FT,Patna,,1,Saharsa,14000,225
+06/07/2026,PATNA,Per Trip,8 FT,Patna,,1,Saharsa,14000,225
+06/07/2026,PATNA,Per Trip,9 FT,Patna,,2,Bhagalpur,17000,250
+07/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+07/07/2026,JAIPUR,Per Trip,Tata 407,Jaipur,,5,Kota,15000,250
+07/07/2026,PATNA,Per Trip,10 FT,Patna,,2,Siliguri,29000,450
+07/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anekal,1,Coimbatore,21000,365
+07/07/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,1,Bhubaneswar,29000,420
+07/07/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,3,Bhubaneswar,29000,440
+08/07/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+08/07/2026,PUNE,Per Trip,9 FT,Pune,,2,Solapur / Latur,17500,385
+08/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+08/07/2026,RAJPURA,Per Trip,8 FT,Rajpura,,2,Jammu,18880,385
+08/07/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,2,Srinagar J&K,32000,530
+08/07/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,2,Saharsa,14000,225
+08/07/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,2,Bhagalpur,17000,250
+08/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,Tavarekere,2,Salem,17000,205
+08/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,Tavarekere,1,Tumkur,14500,70
+08/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,6,Durgapur / Asansol / Dhanbad,23000,270
+08/07/2026,PATNA,Per Trip,11 FT,Patna,,3,Siliguri / Jalpaiguri,31000,490
+08/07/2026,PATNA,Per Trip,9 FT,Patna,,1,Katihar,17000,300
+08/07/2026,PATNA,Per Trip,9 FT,Patna,,2,Bhagalpur,17000,250
+08/07/2026,PATNA,Per Trip,9 FT,Patna,,1,Purnia,17000,310
+09/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,5,Gwalior,22000,430
+09/07/2026,JAIPUR,Per Trip,Tata 407,Jaipur,,5,Udaipur,19000,395
+09/07/2026,LUDHIANA,Per Trip,8 FT,Ludhiana,,1,Shri Ganganagar,15000,250
+09/07/2026,PATNA,Per Trip,8 FT,Patna,,1,Siliguri,29000,450
+09/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anekal,1,Coimbatore,21000,365
+09/07/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+09/07/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,8,Jamshedpur / Ranchi,25000,390
+09/07/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,1,Tinsukiya,21000,485
+10/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+10/07/2026,PATNA,Per Trip,8 FT,Patna,,1,Katihar,20500,300
+10/07/2026,RAJPURA,Per Trip,Tata 407,Rajpura,,3,Jammu,18000,385
+10/07/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,1,Dibrugarh,21000,440
+10/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,1,Bidhannagar,12000,40
+10/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,5,Durgapur / Asansol / Dhanbad,21000,270
+10/07/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,8,Jamshedpur / Ranchi,25000,390
+10/07/2026,KOLKATA DANKUNI,Per Trip,14 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+10/07/2026,PATNA,Per Trip,9 FT,Patna,,3,Siliguri / Jalpaiguri,31000,490
+10/07/2026,PATNA,Per Trip,10 FT,Patna,,3,Siliguri,29000,450
+10/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anjaneya,2,Salem,17000,205
+10/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anjaneya,2,Ananthapur,17000,215
+10/07/2026,PATNA,Per Trip,9 FT,Patna,,2,Siliguri,29000,450
+11/07/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Satna,15000,295
+11/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+11/07/2026,JAIPUR,Per Trip,Tata 407,Jaipur,,5,Udaipur,19000,395
+11/07/2026,PATNA,Per Trip,9 FT,Patna,,2,Deoghar / Dumka,22500,270
+11/07/2026,PATNA,Per Trip,9 FT,Patna,,2,Bhagalpur,17000,250
+11/07/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,8,Jamshedpur / Ranchi,25000,385
+11/07/2026,PATNA,Per Trip,8 FT,Patna,,1,Siliguri,29000,450
+11/07/2026,PATNA,Per Trip,9 FT,Patna,,1,Siliguri,29000,450
+12/07/2026,RAJPURA,Per Trip,8 FT,Rajpura,,2,Jammu,18880,385
+12/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+12/07/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+12/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,6,Durgapur / Asansol / Dhanbad,21000,270
+12/07/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+12/07/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,23000,260
+12/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anekal,1,Coimbatore,21000,365
+12/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anjaneya,2,Salem,17000,205
+12/07/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,,Hubli,28000,415
+12/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,Tavarekere,,Chitradurga / Tumkur,16500,200
+12/07/2026,PATNA,Per Trip,9 FT,Patna,,,Siliguri / Jalpaiguri,31000,490
+12/07/2026,PATNA,Per Trip,9 FT,Patna,,,Siliguri,29000,450
+13/07/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+13/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+13/07/2026,RAJPURA,Per Trip,10 FT,Rajpura,,3,Jammu,18000,385
+13/07/2026,PATNA,Per Trip,10 FT,Patna,,5,Siliguri / Jalpaiguri,31000,490
+13/07/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,6,Durgapur / Asansol / Dhanbad,21000,270
+13/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,5,Jamshedpur / Ranchi,25000,390
+13/07/2026,JAIPUR,Per Trip,Tata 407,Jaipur,,5,Udaipur,19000,395
+14/07/2026,SILIGURI,Per Trip,9 FT,Siliguri,,3,Siliguri,5000,20
+14/07/2026,PATNA,Per Trip,10 FT,Patna,,2,Saharsa,14000,225
+14/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+14/07/2026,JAIPUR,Per Trip,Tata 407,Jaipur,,4,Kota,15000,250
+14/07/2026,PATNA,Per Trip,10 FT,Patna,,2,Siliguri,29000,450
+14/07/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,8,Jamshedpur / Ranchi,25000,385
+14/07/2026,SILIGURI,Per Trip,9 FT,Siliguri,,3,Siliguri,5000,20
+14/07/2026,PATNA,Per Trip,8 FT,Patna,,2,Bhagalpur,17000,250
+15/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+15/07/2026,RAJPURA,Per Trip,8 FT,Rajpura,,2,Jammu,18880,385
+15/07/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,2,Srinagar J&K,32000,530
+15/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,7,Jamshedpur / Ranchi,25000,390
+15/07/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+15/07/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+15/07/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,2,Purnia / Katihar,22500,310
+15/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,6,Durgapur / Asansol / Dhanbad,21000,270
+15/07/2026,SILIGURI,Per Trip,10 FT,Siliguri,,1,Jalpaiguri,5000,50
+15/07/2026,PATNA,Per Trip,10 FT,Patna,,6,Siliguri / Jalpaiguri,31000,490
+15/07/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Hubli,28000,415
+15/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anekal,1,Coimbatore,21000,365
+15/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,Tavarekere,2,Chitradurga / Tumkur,16500,200
+15/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,Tavarekere,2,Salem,17000,205
+15/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anjaneya,1,Ananthapur,17000,215
+15/07/2026,PATNA,Per Trip,9 FT,Patna,,1,Purnia,20500,310
+15/07/2026,PATNA,Per Trip,8 FT,Patna,,2,Bhagalpur,17000,250
+15/07/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,1,Tinsukiya,21000,485
+16/07/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+16/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+16/07/2026,JAIPUR,Per Trip,10 FT,Jaipur,,5,Udaipur,19000,395
+16/07/2026,LUDHIANA,Per Trip,8 FT,Ludhiana,,1,Shri Ganganagar,15000,250
+16/07/2026,LUDHIANA,Per Trip,11 FT,Ludhiana,,1,Srinagar J&K,32000,530
+16/07/2026,PATNA,Per Trip,11 FT,Patna (Salimar),Patna,6,Siliguri,29000,450
+16/07/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+16/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anekal,1,Hubli,28000,415
+16/07/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+17/07/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Rewa,13000,230
+17/07/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,1,Dibrugarh,21000,440
+17/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+17/07/2026,RAJPURA,Per Trip,10 FT,Rajpura,,2,Jammu,18000,385
+17/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anjaneya,2,Salem,17000,205
+17/07/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Hubli,28000,415
+17/07/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,6,Durgapur / Asansol / Dhanbad,21000,270
+17/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anekal,1,Coimbatore,21000,365
+17/07/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+17/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,25000,390
+17/07/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,2,Bhagalpur,17000,250
+18/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+18/07/2026,JAIPUR,Per Trip,Tata 407,Jaipur,,4,Udaipur,19000,395
+18/07/2026,PATNA,Per Trip,10 FT,Patna,,1,Siliguri,29000,450
+18/07/2026,RAJPURA,Per Trip,8 FT,Rajpura,,3,Jammu,18880,385
+19/07/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+19/07/2026,RAJPURA,Per Trip,10 FT,Rajpura,,2,Jammu,18000,385
+19/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+19/07/2026,JAIPUR,Per Trip,Tata 407,Jaipur,,3,Jodhpur,17500,335
+19/07/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+19/07/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,8,Jamshedpur / Ranchi,25000,385
+19/07/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Hubli,28000,415
+19/07/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+19/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anjaneya,2,Salem,17000,205
+19/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,Tavarekere,1,Chitradurga / Tumkur,16500,200
+19/07/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Dumka,22500,270
+19/07/2026,PATNA,Per Trip,10 FT,Patna,,2,Deoghar,17000,250
+19/07/2026,PATNA,Per Trip,9 FT,Patna,,2,Bhagalpur,17000,250
+19/07/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+19/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,25000,390
+19/07/2026,KOLKATA ULUBERIA,Per Trip,14 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,21000,270
+20/07/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+20/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+20/07/2026,RAJPURA,Per Trip,8 FT,Rajpura,,2,Jammu,18880,385
+21/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+21/07/2026,JAIPUR,Per Trip,Tata 407,Jaipur,,3,Kota,15000,250
+21/07/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+21/07/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Darbhanga,9000,140
+21/07/2026,PATNA,Per Trip,10 FT,Patna,,2,Saharsa,14000,225
+22/07/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+22/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+22/07/2026,RAJPURA,Per Trip,10 FT,Rajpura,,2,Jammu,18000,385
+22/07/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,1,Srinagar J&K,32000,530
+18/07/2026,DASNA,Per Trip,32 FT,Dasna,,,Dasna,17000,20
+19/07/2026,DASNA,Per Trip,32 FT,Dasna,,,Dasna,17000,20
+20/07/2026,DASNA,Per Trip,32 FT,Dasna,,,Dasna,17000,20
+21/07/2026,DASNA,Per Trip,32 FT,Dasna,,,Dasna,17000,20
+22/07/2026,DASNA,Per Trip,32 FT,Dasna,,,Dasna,17000,20
+22/07/2026,FARRUKHNAGAR,Per Trip,14 FT,Farrukhnagar,,1,Dasna,10000,85
+22/07/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+22/07/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,1,Saharsa,14000,225
+22/07/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Hubli,28000,415
+22/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,Tavarekere,2,Chitradurga / Tumkur,16500,200
+22/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,Anekal,1,Coimbatore,21000,365
+22/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anjaneya,1,Ananthapur,17000,215
+22/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anjaneya,2,Salem,17000,205
+22/07/2026,LUCKNOW,Per Trip,8 FT,Lucknow,,1,Sitapur,6500,85
+22/07/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,21000,270
+22/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,25000,390
+22/07/2026,PATNA,Per Trip,10 FT,Patna,,1,Saharsa,14000,225
+22/07/2026,PATNA,Per Trip,9 FT,Patna,,2,Bhagalpur,17000,250
+22/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,,1,Anekal,6000,55
+23/07/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+23/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+23/07/2026,JAIPUR,Per Trip,Tata 407,Jaipur,,4,Udaipur,19000,395
+23/07/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,2,Srinagar J&K,33000,530
+23/07/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+23/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,,1,Anekal,6000,55
+23/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,,1,Anekal,6000,55
+23/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,,1,Anekal,6000,55
+23/07/2026,PATNA,Per Trip,10 FT,Patna,,2,Purnia / Katihar,21000,310
+24/07/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,1,Dibrugarh,21000,440
+24/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+24/07/2026,RAJPURA,Per Trip,8 FT,Rajpura,,1,Jammu,18880,385
+24/07/2026,LUDHIANA,Per Trip,8 FT,Ludhiana,,1,Shri Ganganagar,14000,250
+24/07/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Durgapur / Asansol,21000,205
+24/07/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,8,Jamshedpur / Ranchi,25000,385
+24/07/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Durgapur / Asansol / Dhanbad,21000,260
+24/07/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+24/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,6,Durgapur / Asansol / Dhanbad,21000,270
+24/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,2,Salem,17000,205
+24/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,1,Hubli,28000,410
+24/07/2026,PATNA,Per Trip,10 FT,Patna,,2,Bhagalpur,16000,250
+24/07/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+25/07/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+25/07/2026,FARRUKHNAGAR,Per Trip,32 FT,Farrukhnagar,,1,Farrukhnagar,15000,20
+25/07/2026,AHMEDABAD,Per Trip,32 FT,Ahmedabad,,1,Ahmedabad,16200,25
+25/07/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,15000,25
+25/07/2026,BENGALURU,Per Trip,32 FT,Bengaluru,,1,Bengaluru,13000,30
+25/07/2026,NAGPUR,Per Trip,32 FT,Nagpur,,1,Nagpur,14500,25
+25/07/2026,HYDERABAD,Per Trip,32 FT,Hyderabad,,1,Hyderabad,16000,30
+25/07/2026,VIJAYWADA,Per Trip,32 FT,Vijaywada,,1,Vijaywada,16000,25
+25/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,2,Gwalior,22000,430
+25/07/2026,JAIPUR,Per Trip,10 FT,Jaipur,,3,Udaipur,19000,395
+25/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,,1,Anekal,6000,55
+25/07/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+25/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,2,Chitradurga / Tumkur,16500,200
+25/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,7,Jamshedpur / Ranchi,25000,390
+25/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,6,Durgapur / Asansol / Dhanbad / Hazaribagh,25000,370
+25/07/2026,PATNA,Per Trip,10 FT,Patna,,2,Deoghar / Dumka,21500,270
+25/07/2026,PATNA,Per Trip,10 FT,Patna,,2,Deoghar,17000,250
+25/07/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Palakkad / Cochin,17000,190
+26/07/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+26/07/2026,FARRUKHNAGAR,Per Trip,32 FT,Farrukhnagar,,1,Farrukhnagar,15000,20
+26/07/2026,AHMEDABAD,Per Trip,32 FT,Ahmedabad,,1,Ahmedabad,16200,25
+26/07/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,15000,25
+26/07/2026,NAGPUR,Per Trip,32 FT,Nagpur,,1,Nagpur,14500,25
+26/07/2026,HYDERABAD,Per Trip,32 FT,Hyderabad,,1,Hyderabad,16000,30
+26/07/2026,VIJAYWADA,Per Trip,32 FT,Vijaywada,,1,Vijaywada,16000,25
+26/07/2026,RAJPURA,Per Trip,8 FT,Rajpura,,2,Jammu,18880,385
+26/07/2026,JAIPUR,Per Trip,Tata 407,Jaipur,,3,Jodhpur,17500,335
+26/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+26/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,1,Bhubaneswar,29000,420
+26/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,,1,Anekal,7500,55
+26/07/2026,BENGALURU,Per Trip,10 FT,Anjaneya,,1,Anekal,7500,55
+26/07/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,5,Jamshedpur / Ranchi / Bokaro,25000,390
+26/07/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+26/07/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Hubli,28000,415
+26/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,3,Salem,17000,205
+26/07/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+26/07/2026,PATNA,Per Trip,9 FT,Patna,,3,Deoghar / Dumka,22500,270
+27/07/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+27/07/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+27/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+27/07/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,23000,260
+27/07/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,2,Bokaro / Hazaribagh,25000,360
+27/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,6,Durgapur / Asansol / Dhanbad,21000,270
+27/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,1,Coimbatore,21000,360
+27/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,2,Chitradurga / Tumkur,16500,200
+27/07/2026,PATNA,Per Trip,10 FT,Patna,,2,Bhagalpur,16000,250
+27/07/2026,PATNA,Per Trip,10 FT,Patna,,1,Siliguri,27000,450
+27/07/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,1,Tinsukiya / Dibrugarh,21000,485
+27/07/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+27/07/2026,FARRUKHNAGAR,Per Trip,32 FT,Farrukhnagar,,1,Farrukhnagar,15000,20
+27/07/2026,AHMEDABAD,Per Trip,32 FT,Ahmedabad,,1,Ahmedabad,16200,25
+27/07/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,15000,25
+27/07/2026,NAGPUR,Per Trip,32 FT,Nagpur,,1,Nagpur,14500,25
+27/07/2026,HYDERABAD,Per Trip,32 FT,Hyderabad,,1,Hyderabad,16000,30
+27/07/2026,PATNA,Per Trip,32 FT,Patna,,1,Patna,13000,25
+28/07/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+28/07/2026,FARRUKHNAGAR,Per Trip,32 FT,Farrukhnagar,,1,Farrukhnagar,15000,20
+28/07/2026,AHMEDABAD,Per Trip,32 FT,Ahmedabad,,1,Ahmedabad,16200,25
+28/07/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,15000,25
+28/07/2026,NAGPUR,Per Trip,32 FT,Nagpur,,1,Nagpur,14500,25
+28/07/2026,HYDERABAD,Per Trip,32 FT,Hyderabad,,1,Hyderabad,16000,30
+28/07/2026,RAJPURA,Per Trip,10 FT,Rajpura,,2,Jammu,18000,385
+28/07/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+28/07/2026,JAIPUR,Per Trip,Tata 407,Jaipur,,3,Kota,15000,250
+28/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+28/07/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,3,Dhanbad / Hazaribagh,24000,370
+28/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,1,Hubli,28000,410
+29/07/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+29/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+29/07/2026,RAJPURA,Per Trip,8 FT,Rajpura,,1,Jammu,18000,385
+29/07/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,1,Gangtok,34000,550
+29/07/2026,NOIDA,Per Trip,14 FT,Noida,,2,Bharatpur,15000,180
+29/07/2026,NOIDA,Per Trip,14 FT,Noida,,2,Agra,15000,190
+29/07/2026,RAJPURA,Per Trip,8 FT,Rajpura,,3,Jammu,18880,385
+29/07/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+29/07/2026,FARRUKHNAGAR,Per Trip,32 FT,Farrukhnagar,,1,Farrukhnagar,15000,20
+29/07/2026,AHMEDABAD,Per Trip,32 FT,Ahmedabad,,1,Ahmedabad,16200,25
+29/07/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,15000,25
+29/07/2026,NAGPUR,Per Trip,32 FT,Nagpur,,1,Nagpur,14500,25
+29/07/2026,HYDERABAD,Per Trip,32 FT,Hyderabad,,1,Hyderabad,16000,30
+29/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,1,Salem,17000,205
+29/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,1,Ananthapur,17000,215
+29/07/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,3,Chitradurga / Tumkur,16500,200
+29/07/2026,PATNA,Per Trip,10 FT,Patna,,2,Bhagalpur,16000,250
+29/07/2026,PATNA,Per Trip,10 FT,Patna,,1,Saharsa,12000,225
+29/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,5,Kharagpur / Ranchi,25000,390
+29/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,5,Durgapur / Asansol,18000,215
+29/07/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,5,Bokaro / Hazaribagh / Dhanbad,25000,370
+29/07/2026,PATNA,Per Trip,9 FT,Patna,,1,Saharsa,14000,225
+30/07/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+30/07/2026,NAGPUR,Per Trip,32 FT,Nagpur,,1,Nagpur,14500,25
+30/07/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+30/07/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,1,Dibrugarh,21000,440
+30/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+30/07/2026,JAIPUR,Per Trip,10 FT,Jaipur,,3,Udaipur,19000,395
+30/07/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,5,Trissur / Palakkad / Cochin,15500,190
+30/07/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+30/07/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,8,Jamshedpur / Ranchi,25000,385
+30/07/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+30/07/2026,KOLKATA ULUBERIA,Per Trip,14 FT,Uluberia,,2,Midnapore / Kharagpur / Bhubaneswar,30000,420
+30/07/2026,NOIDA,Per Trip,14 FT,Noida,,2,Ghaziabad,10000,25
+30/07/2026,NOIDA,Per Trip,14 FT,Noida,,2,Ghaziabad,10000,25
+30/07/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+30/07/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+31/07/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+31/07/2026,NAGPUR,Per Trip,32 FT,Nagpur,,1,Nagpur,14500,25
+31/07/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+31/07/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,2,Siliguri,41000,460
+31/07/2026,RAJPURA,Per Trip,8 FT,Rajpura,,1,Jammu,20880,385
+31/07/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,8,Durgapur / Asansol / Dhanbad,22000,270
+31/07/2026,PATNA,Per Trip,10 FT,Patna,,1,Purnia,20500,310
+31/07/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+31/07/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,1,Shri Ganganagar,14000,250
+31/07/2026,PATNA,Per Trip,10 FT,Patna,,1,Siliguri,29000,450
+31/07/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,1,Dibrugarh,21000,440
+31/07/2026,PATNA,Per Trip,10 FT,Patna,,1,Katihar,20500,300
+31/07/2026,PATNA,Per Trip,8 FT,Patna,,2,Bhagalpur,17000,250
+31/07/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+31/07/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,6,Bokaro / Hazaribagh / Depghar / Dumka,30000,360
+01/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+01/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,3,Udaipur,19000,395
+01/08/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+02/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+02/08/2026,RAJPURA,Per Trip,8 FT,Rajpura,,2,Jammu,18000,385
+02/08/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+02/08/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,Uluberia,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+02/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,8,Jamshedpur / Ranchi,26000,385
+02/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,7,Jamshedpur / Ranchi,26000,390
+02/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,21000,270
+02/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,1,Salem,17000,205
+02/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+02/08/2026,PATNA,Per Trip,10 FT,Patna,,2,Bhagalpur,16000,250
+03/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+03/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+03/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,3,Udaipur,19000,395
+03/08/2026,RAJPURA,Per Trip,10 FT,Rajpura,,2,Jammu,18000,385
+03/08/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+03/08/2026,PATNA,Per Trip,10 FT,Patna,,2,Deoghar,17000,250
+03/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,2,Chitradurga / Tumkur,16500,220
+04/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+04/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Jabalpur,18900,310
+04/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19000,395
+04/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19000,395
+04/08/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+04/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,,Hubli,28000,415
+05/08/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+05/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+05/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19000,395
+05/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19000,395
+05/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Kota,15000,250
+05/08/2026,RAJPURA,Per Trip,8 FT,Rajpura,,2,Jammu,18880,385
+05/08/2026,DASNA,Per Trip,10 FT,Dasna,,1,Rudrapur,16000,205
+05/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+05/08/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,23000,260
+05/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+05/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,26000,390
+05/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,3,Bokaro / Hazaribagh,25000,370
+05/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,6,Durgapur / Asansol / Dhanbad,21000,270
+05/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,,Coimbatore,21000,360
+05/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,,Ananthapur,17000,235
+05/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,,Chitradurga / Tumkur,16500,200
+05/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,,Salem,17000,200
+05/08/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Siliguri,27000,450
+05/08/2026,PATNA,Per Trip,10 FT,Patna,,2,Saharsa,12000,225
+05/08/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,3,Bokaro / Hazaribagh,26000,360
+06/08/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+06/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+06/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19000,395
+06/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19000,395
+06/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,1,Bikaner,17500,335
+06/08/2026,LUDHIANA,Per Trip,8 FT,Ludhiana,,1,Shri Ganganagar,14000,250
+06/08/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,1,Dibrugarh,21000,440
+06/08/2026,DEHRADUN,Per Trip,10 FT,Dehradun,,1,Kichha,27000,260
+06/08/2026,VIJAYWADA,Per Trip,10 FT,Vijaywada,,1,Raichur,25000,415
+06/08/2026,VIJAYWADA,Per Trip,10 FT,Vijaywada,,1,Mahbubnagar,19000,350
+06/08/2026,SURAT,Per Trip,8 FT,Surat,,1,Bhavnagar,19000,360
+06/08/2026,SURAT,Per Trip,10 FT,Surat,,1,Surendranagar,18000,330
+06/08/2026,NOIDA,Per Trip,10 FT,Noida,,1,Haldwani,13000,260
+06/08/2026,NOIDA,Per Trip,10 FT,Noida,,2,Bharatpur,11000,180
+06/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,13000,190
+06/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,11000,190
+06/08/2026,NOIDA,Per Trip,10 FT,Noida,,1,Sikohabad,13000,255
+06/08/2026,RAJPURA,Per Trip,8 FT,Rajpura,,4,Jammu,18880,385
+06/08/2026,DASNA,Per Trip,10 FT,Dasna,,1,Kashipur,14000,190
+06/08/2026,Kolkata K4,Per Trip,10 FT,Kolkata K4,,1,Dhanbad ( Ramgarh) ,20000,
+06/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+06/08/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,8,Jamshedpur / Ranchi,25000,385
+06/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+07/08/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+07/08/2026,GUWAHATI,Per Trip,14 FT,Guwahati,,4,Siliguri,28000,460
+07/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,4,Gwalior,22000,430
+07/08/2026,RAJPURA,Per Trip,10 FT,Rajpura,,6,Jammu,20000,385
+07/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19000,395
+07/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,3,Udaipur,19000,395
+07/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,10000,190
+07/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,12000,190
+07/08/2026,AHMEDABAD,Per Trip,14 FT,Ahmedabad,,6,Vadodara,12000,110
+07/08/2026,PATNA,Per Trip,10 FT,Patna,,2,Bhagalpur,16000,250
+07/08/2026,PATNA,Per Trip,10 FT,Patna,,1,Siliguri,27000,450
+07/08/2026,PATNA,Per Trip,8 FT,Patna,,1,Purnia,20500,310
+07/08/2026,PATNA,Per Trip,9 FT,Patna,,1,Katihar,20500,300
+07/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Bokaro / Hazaribagh,25000,360
+07/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+07/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,2,Salem,17000,205
+07/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+07/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anekal,2,Chitradurga / Tumkur,16500,210
+07/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+07/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,26000,390
+07/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,5,Durgapur / Asansol / Dhanbad,21000,270
+08/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+08/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+08/08/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,4,Siliguri,41000,460
+08/08/2026,RAJPURA,Per Trip,8 FT,Rajpura,,8,Jammu,18880,385
+08/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Kota,13000,250
+08/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,10000,190
+08/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,12000,190
+08/08/2026,DASNA,Per Trip,10 FT,Dasna,,1,Haldwani,15000,245
+08/08/2026,DASNA,Per Trip,32 FT,Dasna,Dasana,1,Dasna,17000,20
+09/08/2026,DASNA,Per Trip,32 FT,Dasna,Dasana,1,Dasna,17000,20
+09/08/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,3,Bokaro / Hazaribagh,29000,370
+09/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,4,Jamshedpur / Ranchi,25000,390
+09/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,5,Durgapur / Asansol / Dhanbad,21000,270
+09/08/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,23000,260
+09/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+09/08/2026,PATNA,Per Trip,10 FT,Patna (Salimar),,1,Siliguri,27000,450
+09/08/2026,PATNA,Per Trip,10 FT,Patna,,2,Saharsa,13000,225
+09/08/2026,PATNA,Per Trip,9 FT,Patna,,2,Bhagalpur,17000,250
+09/08/2026,PATNA,Per Trip,9 FT,Patna,,1,Deoghar,20500,250
+09/08/2026,PATNA,Per Trip,9 FT,Patna,,1,Dumka,22500,270
+09/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+09/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Salem,17000,185
+09/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,2,Salem,17000,205
+09/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,2,Chitradurga / Tumkur,16500,220
+09/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anekal,2,Coimbatore,21000,365
+09/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,8,Jamshedpur / Ranchi,26000,385
+09/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Bokaro / Hazaribagh,25000,360
+09/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Kota,13000,250
+09/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Jodhpur,17500,335
+09/08/2026,RAJPURA,Per Trip,8 FT,Rajpura,,5,Jammu,18000,385
+09/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,10000,190
+09/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,12000,190
+09/08/2026,AHMEDABAD,Per Trip,8 FT,Ahmedabad,,6,Vadodara,8500,110
+09/08/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,2,Tinsukiya / Dibrugarh,28000,485
+10/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+10/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Kota,15000,250
+10/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,1,Bikaner,17500,335
+10/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19500,395
+10/08/2026,LUDHIANA,Per Trip,8 FT,Ludhiana,,1,Shri Ganganagar,14000,250
+10/08/2026,SURAT,Per Trip,8 FT,Surat,,1,Bhavnagar,20250,360
+10/08/2026,SURAT,Per Trip,10 FT,Surat,,1,Surendranagar,20250,330
+10/08/2026,NOIDA,Per Trip,10 FT,Noida,,1,Sikohabad,13000,255
+10/08/2026,NOIDA,Per Trip,10 FT,Noida,,1,Haldwani,15000,260
+10/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,12000,190
+10/08/2026,NOIDA,Per Trip,10 FT,Noida,,1,Bharatpur,11000,180
+10/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,10000,190
+10/08/2026,VIJAYWADA,Per Trip,10 FT,Vijaywada,,1,Mahbubnagar,19000,350
+10/08/2026,VIJAYWADA,Per Trip,10 FT,Vijaywada,,1,Raichur,25000,415
+10/08/2026,LUDHIANA,Per Trip,14 FT,Ludhiana,,2,Srinagar J&K,32000,530
+10/08/2026,DASNA,Per Trip,8 FT,Dasna,,1,Haldwani,15000,245
+10/08/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+10/08/2026,RAJPURA,Per Trip,10 FT,Rajpura,,12,Jammu,22000,385
+10/08/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,8,Durgapur / Asansol / Dhanbad,12000,270
+10/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Hubli,28000,415
+10/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+10/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Salem,17000,185
+10/08/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,2,Purnia / Katihar,20500,310
+10/08/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,8,Jamshedpur / Ranchi,25000,390
+11/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+11/08/2026,GUWAHATI,Per Trip,TATa 407,Guwahati,,1,Gangtok,37000,550
+11/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+11/08/2026,DASNA,Per Trip,10 FT,Dasna,,1,Haldwani,15000,245
+11/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,10000,190
+11/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,12000,190
+11/08/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+11/08/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Darbhanga / Madhubani,13000,170
+11/08/2026,PATNA,Per Trip,10 FT,Patna,,3,Deoghar / Dumka,21500,270
+11/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+12/08/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+12/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+12/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+12/08/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,4,Siliguri,41000,460
+12/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+12/08/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,8,Jamshedpur / Ranchi,25000,385
+12/08/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+12/08/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,2,Bhagalpur,17000,250
+12/08/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,3,Begusarai / Munger / Khagaria,12000,170
+12/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Durgapur / Asansol / Dhanbad,22000,270
+12/08/2026,NOIDA,Per Trip,8 FT,Noida,,4,Agra,11000,190
+12/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,10000,190
+12/08/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,Dankuni,3,Bokaro / Hazaribagh,25000,370
+12/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,2,Midnapore / Kharagpur,10000,125
+12/08/2026,PATNA,Per Trip,11 FT,Patna,,1,Siliguri,29000,450
+12/08/2026,PATNA,Per Trip,9 FT,Patna,,2,Saharsa,14000,225
+12/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,1,Bhubaneswar,29000,440
+12/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,2,Chitradurga / Tumkur,16500,220
+12/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anekal,2,Salem,17000,205
+12/08/2026,HYDERABAD,Per Trip,10 FT,Hyderabad,,1,Vijaywada,15000,275
+13/08/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+13/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+13/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+13/08/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,1,Dibrugarh,27500,440
+13/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19500,395
+13/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,3,Udaipur,19500,395
+13/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,1,Bikaner,17500,335
+13/08/2026,RAJPURA,Per Trip,8 FT,Rajpura,,13,Jammu,20000,385
+13/08/2026,SURAT,Per Trip,10 FT,Surat,,1,Surendranagar,20250,330
+13/08/2026,SURAT,Per Trip,10 FT,Surat,,1,Bhavnagar,20250,360
+13/08/2026,VIJAYWADA,Per Trip,10 FT,Vijaywada,,1,Raichur,25000,415
+13/08/2026,VIJAYWADA,Per Trip,10 FT,Vijaywada,,1,Mahbubnagar,19000,350
+13/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+13/08/2026,NOIDA,Per Trip,10 FT,Noida,,1,Sikohabad,13000,255
+13/08/2026,NOIDA,Per Trip,10 FT,Noida,,1,Haldwani,15000,260
+13/08/2026,NOIDA,Per Trip,8 FT,Noida,,3,Bharatpur,12000,180
+13/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,10000,190
+13/08/2026,NOIDA,Per Trip,8 FT,Noida,,4,Agra,11000,190
+13/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+13/08/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Siliguri,27000,450
+13/08/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,1,Saharsa,14000,225
+13/08/2026,VIJAYWADA,Per Trip,10 FT,Vijaywada,,1,Khammam,8000,125
+13/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,26000,390
+13/08/2026,HYDERABAD,Per Trip,10 FT,Hyderabad,,1,Vijaywada,15000,275
+13/08/2026,PATNA,Per Trip,10 FT,Patna,,2,Begusarai / Khagaria,10000,170
+14/08/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+14/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Rewa,13000,230
+14/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Deoria,14500,180
+14/08/2026,GUWAHATI,Per Trip,TATa 407,Guwahati,,4,Siliguri,28000,460
+14/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19000,395
+14/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,3,Udaipur,19000,395
+14/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+14/08/2026,DASNA,Per Trip,10 FT,Dasna,,3,Rudrapur / Kashipur,17000,205
+14/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,10000,190
+14/08/2026,NOIDA,Per Trip,8 FT,Noida,,4,Agra,11000,190
+14/08/2026,DASNA,Per Trip,8 FT,Dasna,,3,Haldwani,14000,245
+14/08/2026,LUCKNOW,Per Trip,8 FT,Lucknow,,1,Bareilly,14000,250
+14/08/2026,PATNA,Per Trip,9 FT,Patna,,1,Katihar,19000,300
+14/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Hubli,28000,430
+14/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,2,Chitradurga / Tumkur,16500,220
+14/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,2,Salem,17000,200
+14/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+14/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+14/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+14/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+14/08/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+14/08/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,23000,270
+14/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+14/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,Dankuni,3,Bokaro / Hazaribagh,25000,370
+14/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,8,Jamshedpur / Ranchi,25000,385
+14/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,26000,390
+14/08/2026,PATNA,Per Trip,9 FT,Patna,,3,Deoghar / Dumka,22500,270
+14/08/2026,PATNA,Per Trip,9 FT,Patna,,2,Bhagalpur,17000,250
+14/08/2026,PATNA,Per Trip,8 FT,Patna,,2,Purnia / Katihar,21000,310
+15/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+15/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+15/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19500,395
+15/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,3,Udaipur,19000,395
+15/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+15/08/2026,RAJPURA,Per Trip,8 FT,Rajpura,,6,Jammu,18000,385
+15/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,10000,190
+15/08/2026,NOIDA,Per Trip,8 FT,Noida,,4,Agra,11000,190
+15/08/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+15/08/2026,DASNA,Per Trip,8 FT,Dasna,,1,Haldwani,13000,245
+15/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Ananthapur,17000,235
+15/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Chitradurga / Tumkur,16500,220
+15/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+15/08/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,2,Purnia / Katihar,21000,310
+15/08/2026,PATNA,Per Trip,11 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+15/08/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,2,Tinsukiya / Dibrugarh,27000,485
+15/08/2026,LUCKNOW,Per Trip,8 FT,Lucknow,,2,Ayodhya,9000,135
+16/08/2026,DASNA,Per Trip,32 FT,Dasna,,1,Dasna,17000,20
+16/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+16/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19500,395
+16/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Kota,15000,250
+16/08/2026,RAJPURA,Per Trip,8 FT,Rajpura,,3,Jammu,20000,385
+16/08/2026,DASNA,Per Trip,8 FT,Dasna,,3,Haldwani,13000,245
+16/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,10000,190
+16/08/2026,NOIDA,Per Trip,8 FT,Noida,,4,Agra,11000,190
+16/08/2026,LUCKNOW,Per Trip,8 FT,Lucknow,,2,Sahjahapur,10500,175
+16/08/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Darbhanga / Madhubani,12000,170
+16/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+16/08/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,8,Jamshedpur / Ranchi,25000,385
+16/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,6,Durgapur / Asansol / Dhanbad,21000,260
+16/08/2026,HYDERABAD,Per Trip,10 FT,Hyderabad,,1,Vijaywada,15500,275
+16/08/2026,HYDERABAD,Per Trip,10 FT,Hyderabad,,3,Karimnagar / Warangal,13000,165
+16/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,19000,350
+16/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,19000,350
+16/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,2,Salem,15000,205
+16/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Chitradurga / Tumkur,16000,220
+16/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,2,Chitradurga / Tumkur,16000,200
+17/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Rewa,13000,230
+17/08/2026,LUDHIANA,Per Trip,8 FT,Ludhiana,,1,Shri Ganganagar,16000,250
+17/08/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,2,Srinagar J&K,35000,530
+17/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19500,395
+17/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,3,Kota,15000,250
+17/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19000,395
+17/08/2026,SURAT,Per Trip,10 FT,Surat,,1,Bhavnagar,20250,360
+17/08/2026,SURAT,Per Trip,10 FT,Surat,,1,Surendranagar,20250,330
+17/08/2026,VIJAYWADA,Per Trip,10 FT,Vijaywada,,1,Raichur,25000,415
+17/08/2026,VIJAYWADA,Per Trip,10 FT,Vijaywada,,1,Mahbubnagar,19000,350
+17/08/2026,NOIDA,Per Trip,10 FT,Noida,,2,Rudrapur / Kashipur,17000,225
+17/08/2026,NOIDA,Per Trip,10 FT,Noida,,1,Sikohabad,13000,255
+17/08/2026,NOIDA,Per Trip,8 FT,Noida,,3,Bharatpur,12000,180
+17/08/2026,DASNA,Per Trip,10 FT,Dasna,,3,Haldwani,15000,245
+17/08/2026,NOIDA,Per Trip,8 FT,Noida,,4,Agra,11000,190
+17/08/2026,LUCKNOW,Per Trip,8 FT,Lucknow,,1,Bareilly,14000,250
+17/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,21000,270
+17/08/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,3,Deoghar / Dumka,22500,270
+17/08/2026,PATNA,Per Trip,8 FT,Patna,,4,Begusarai / Khagaria / Saharsa,14000,225
+17/08/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Siliguri,27000,450
+17/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,2,Salem,17000,205
+17/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,3,Ananthapur,17000,215
+17/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,2,Chitradurga / Tumkur,16500,200
+17/08/2026,VIJAYWADA,Per Trip,10 FT,Vijaywada,,1,Rajahmundry,9000,160
+17/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+18/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,14000,190
+17/08/2026,PATNA,Per Trip,11 FT,Patna,,2,Deoghar / Dumka,22500,270
+18/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+18/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+18/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19500,395
+18/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19000,395
+18/08/2026,RAJPURA,Per Trip,8 FT,Rajpura,,8,Jammu,18880,385
+18/08/2026,BHOPAL,Per Trip,9 FT,Bhopal,,6,Gwalior,22000,430
+18/08/2026,DASNA,Per Trip,9 FT,Dasna,,4,Haldwani,13500,245
+18/08/2026,LUCKNOW,Per Trip,8 FT,Lucknow,,2,Ayodhya,9000,135
+18/08/2026,NOIDA,Per Trip,8 FT,Noida,,4,Agra,11000,190
+18/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,10000,190
+18/08/2026,LUDHIANA,Per Trip,14 FT,Ludhiana,,2,Srinagar J&K,37000,530
+18/08/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+18/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anekal,2,Salem,17000,205
+18/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Ananthapur,17000,235
+18/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+18/08/2026,PATNA,Per Trip,9 FT,Patna (Salimar),,2,Bhagalpur,17000,250
+18/08/2026,PATNA,Per Trip,9 FT,Patna,,2,Bhagalpur,17000,250
+18/08/2026,PATNA,Per Trip,9 FT,Patna (Salimar),,1,Munger,10000,180
+18/08/2026,PATNA,Per Trip,10 FT,Patna (Salimar),,2,Purnia / Katihar,21000,310
+18/08/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,8,Jamshedpur / Ranchi,25000,385
+18/08/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,4,Bokaro / Hazaribagh,25000,360
+18/08/2026,RAJPURA,Per Trip,8 FT,Rajpura,,1,Jammu,18880,385
+19/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Sultanpur,8500,140
+19/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+19/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+19/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19500,395
+19/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Kota,15000,250
+19/08/2026,GUWAHATI,Per Trip,TATa 407,Guwahati,,4,Siliguri,28000,460
+19/08/2026,DASNA,Per Trip,9 FT,Dasna,,3,Haldwani,13500,245
+19/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,10000,190
+19/08/2026,NOIDA,Per Trip,8 FT,Noida,,4,Agra,11500,190
+19/08/2026,LUCKNOW,Per Trip,8 FT,Lucknow,,1,Etawah,10000,225
+19/08/2026,LUCKNOW,Per Trip,8 FT,Lucknow,,1,Sahjahapur,10000,175
+19/08/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+19/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,26000,390
+19/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,6,Durgapur / Asansol / Dhanbad,21000,270
+19/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,3,Midnapore / Kharagpur / Bhubaneswar,29000,420
+19/08/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,,Begusarai / Munger / Khagaria,12000,170
+19/08/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,2,Saharsa,14000,225
+19/08/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+19/08/2026,PATNA,Per Trip,09 FT,Patna (Salimar),Patna,2,Bhagalpur,17000,250
+19/08/2026,PATNA,Per Trip,9 FT,Patna,,1,Siliguri,29000,450
+19/08/2026,PATNA,Per Trip,9 FT,Patna,,2,Munger / Khagaria,12000,170
+19/08/2026,PATNA,Per Trip,10 FT,Patna,,1,Saharsa,14000,225
+19/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+19/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Chitradurga / Tumkur,16500,220
+19/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+19/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Ananthapur,17000,235
+19/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+19/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,Dankuni,4,Bokaro / Hazaribagh,25000,370
+19/08/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,2,Tinsukiya / Dibrugarh,27000,485
+19/08/2026,HYDERABAD,Per Trip,10 FT,Hyderabad,,3,Karimnagar / Warangal,13000,165
+20/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Satna,15000,295
+20/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+20/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+20/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19500,395
+20/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Kota,15000,250
+20/08/2026,LUDHIANA,Per Trip,8 FT,Ludhiana,,2,Shri Ganganagar,16000,250
+20/08/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,1,Dibrugarh,21000,440
+20/08/2026,SURAT,Per Trip,10 FT,Surat,,1,Bhavnagar,20250,360
+20/08/2026,SURAT,Per Trip,10 FT,Surat,,1,Surendranagar,20250,330
+20/08/2026,VIJAYWADA,Per Trip,10 FT,Vijaywada,,1,Mahbubnagar,19000,350
+20/08/2026,NOIDA,Per Trip,8 FT,Noida,,3,Bharatpur,12000,180
+20/08/2026,DASNA,Per Trip,10 FT,Dasna,,1,Haldwani,13000,245
+20/08/2026,NOIDA,Per Trip,10 FT,Noida,,1,Haldwani,15000,260
+20/08/2026,NOIDA,Per Trip,10 FT,Noida,,1,Sikohabad,13000,255
+20/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,10000,190
+20/08/2026,NOIDA,Per Trip,8 FT,Noida,,4,Agra,11500,190
+20/08/2026,LUCKNOW,Per Trip,8 FT,Lucknow,,1,Bareilly,14000,250
+20/08/2026,LUCKNOW,Per Trip,10 FT,Lucknow,,1,Etawah,10000,225
+20/08/2026,DASNA,Per Trip,10 FT,Dasna,,1,Rudrapur,14000,205
+20/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,2,Chitradurga / Tumkur,16500,220
+20/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Hubli,28000,415
+20/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,2,Salem,17000,200
+20/08/2026,PATNA,Per Trip,10 FT,Patna (Salimar),,2,Bhagalpur,17000,250
+20/08/2026,PATNA,Per Trip,9 FT,Patna,,2,Begusarai / Saharsa,14000,225
+20/08/2026,PATNA,Per Trip,10 FT,Patna,,1,Siliguri,27000,450
+29/07/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,25000,390
+21/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Deoria,14500,180
+21/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+21/08/2026,BHOPAL,Per Trip,9 FT,Bhopal,,6,Gwalior,22000,430
+21/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,4,Udaipur,19500,395
+21/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,10000,190
+21/08/2026,NOIDA,Per Trip,8 FT,Noida,,4,Agra,11500,190
+21/08/2026,PATNA,Per Trip,09 FT,Patna,,1,Purnia / Katihar,19000,310
+21/08/2026,PATNA,Per Trip,09 FT,Patna,,1,Kisanganj,20000,385
+21/08/2026,DASNA,Per Trip,10 FT,Dasna,,1,Haldwani,13000,245
+21/08/2026,LUDHIANA,Per Trip,14 FT,Ludhiana,,2,Srinagar J&K,55000,530
+21/08/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,8,Jamshedpur / Ranchi,25000,390
+21/08/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,23000,270
+21/08/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+21/08/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,2,Purnia / Katihar,21000,310
+21/08/2026,PATNA,Per Trip,9 FT,Patna,,2,Purnia / Katihar,21000,310
+21/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+21/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,8,Jamshedpur / Ranchi,26000,385
+21/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+21/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,2,Chitradurga / Tumkur,16500,220
+21/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,Anekal,2,Salem,17000,205
+21/08/2026,HYDERABAD,Per Trip,10 FT,Hyderabad,,1,Vijaywada,15000,275
+22/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+22/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,3,Udaipur,19500,395
+22/08/2026,DASNA,Per Trip,08 FT,Dasna,,3,Haldwani,14000,245
+22/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,10000,190
+22/08/2026,NOIDA,Per Trip,8 FT,Noida,,4,Agra,11500,190
+22/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+22/08/2026,LUCKNOW,Per Trip,10 FT,Lucknow,,1,Ayodhya,9000,135
+22/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,26000,390
+22/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,Dankuni,4,Bokaro / Hazaribagh,25000,370
+22/08/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,2,Bhagalpur,17000,250
+22/08/2026,PATNA,Per Trip,9 FT,Patna,,4,Begusarai / Khagaria / Saharsa,14000,225
+22/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Ananthapur,17000,235
+23/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+23/08/2026,DASNA,Per Trip,9 FT,Dasna,,3,Haldwani,14000,245
+23/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,3,Kota,15000,250
+23/08/2026,NOIDA,Per Trip,10 FT,Noida,,4,Agra,10000,190
+23/08/2026,NOIDA,Per Trip,8 FT,Noida,,4,Agra,11500,190
+23/08/2026,LUCKNOW,Per Trip,8 FT,Lucknow,,1,Sahjahapur,10000,175
+23/08/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,8,Jamshedpur / Ranchi,25000,390
+23/08/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,23000,270
+23/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,2,Chitradurga / Tumkur,16500,200
+23/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,2,Salem,17000,205
+23/08/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+23/08/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Dumka,22500,270
+23/08/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Deoghar,17000,250
+23/08/2026,PATNA,Per Trip,09 FT,Patna (Salimar),Patna,1,Deoghar,18000,250
+23/08/2026,PATNA,Per Trip,9 FT,Patna,,2,Munger / Khagaria,12000,170
+23/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+23/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+23/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+23/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,1,Bhubaneswar,29000,440
+23/08/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,2,Dhanbad,20000,260
+23/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Durgapur / Asansol,18000,205
+23/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,2,Midnapore / Kharagpur,9000,125
+23/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Bokaro / Hazaribagh,25000,360
+23/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Jamshedpur,19000,245
+24/08/2026,VARANASI,Per Trip,8 FT,Varanasi,,1,Gorakhpur,13700,200
+24/08/2026,BHOPAL,Per Trip,11 FT,Bhopal,,6,Gwalior,22000,430
+24/08/2026,RAJPURA,Per Trip,8 FT,Rajpura,,5,Jammu,18880,385
+24/08/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,2,Srinagar J&K,32000,530
+24/08/2026,LUDHIANA,Per Trip,8 FT,Ludhiana,,1,Shri Ganganagar,16000,250
+24/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,3,Kota,13000,250
+24/08/2026,JAIPUR,Per Trip,10 FT,Jaipur,,3,Jodhpur,17500,335
+24/08/2026,LUCKNOW,Per Trip,8 FT,Lucknow,,1,Sahjahapur,10500,175
+24/08/2026,SURAT,Per Trip,8 FT,Surat,,1,Bhavnagar,20000,360
+24/08/2026,SURAT,Per Trip,10 FT,Surat,,1,Surendranagar,20000,330
+24/08/2026,NOIDA,Per Trip,10 FT,Noida,,2,Haldwani,15000,260
+24/08/2026,NOIDA,Per Trip,10 FT,Noida,,2,Sikohabad,13000,255
+24/08/2026,NOIDA,Per Trip,8 FT,Noida,,2,Bharatpur,12000,180
+24/08/2026,DASNA,Per Trip,9 FT,Dasna,,2,Haldwani,14000,245
+24/08/2026,LUCKNOW,Per Trip,08 FT,Lucknow,,1,Bareilly,14000,250
+24/08/2026,LUCKNOW,Per Trip,8 FT,Lucknow,,1,Sahjahapur,10500,175
+24/08/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,4,Jamshedpur / Ranchi,25000,385
+24/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,2,Jamshedpur / Ranchi,25000,385
+24/08/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,2,Bhagalpur,17000,250
+24/08/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+24/08/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,3,Begusarai / Munger / Khagaria,12000,170
+24/08/2026,PATNA,Per Trip,8 FT,Patna,,3,Begusarai / Munger / Khagaria,12000,170
+24/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Ananthapur,17000,235
+24/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Chitradurga,16500,220
+24/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Tumkur,8000,90
+24/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,21000,270
+24/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Durgapur / Asansol / Dhanbad,20000,260
+25/08/2026,RAJPURA,Per Trip,14 FT,Rajpura,,1,Jammu,23000,385
+25/08/2026,GUWAHATI,Per Trip,TATa 407,Guwahati,,1,Gangtok,37000,550
+25/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Ananthapur,17000,235
+25/08/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,3,Begusarai / Munger / Khagaria,12000,170
+25/08/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,2,Dibrugarh,24000,440
+26/08/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Saharsa,14000,225
+26/08/2026,PATNA,Per Trip,10 FT,Patna,,2,Bhagalpur,17000,250
+26/08/2026,PATNA,Per Trip,9 FT,Patna,,1,Saharsa,14000,225
+26/08/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,1,Bhagalpur,17000,250
+26/08/2026,PATNA,Per Trip,9 FT,Patna,,3,Begusarai / Munger / Khagaria,12000,170
+26/08/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Begusarai / Munger / Khagaria,12000,170
+26/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,2,Ranchi,25000,385
+26/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Ranchi,25000,385
+26/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Bokaro / Hazaribagh,25000,360
+26/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,2,Dhanbad,21000,260
+26/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+26/08/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,3,Durgapur / Asansol,18000,205
+26/08/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,3,Jamshedpur,18000,245
+26/08/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,23000,270
+26/08/2026,PATNA,Per Trip,9 FT,Patna,,2,Saharsa,13000,225
+26/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+26/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+27/08/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+27/08/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,8,Jamshedpur / Ranchi,25000,390
+27/08/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,23000,260
+27/08/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,2,Deoghar / Dumka,22500,270
+27/08/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,1,Purnia,20500,310
+27/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,2,Chitradurga / Tumkur,16500,220
+27/08/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Siliguri,27000,450
+28/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,4,Bokaro / Hazaribagh,25000,370
+28/08/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,23000,270
+28/08/2026,PATNA,Per Trip,10 FT,Patna,,1,Katihar,21000,300
+28/08/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,2,Purnia / Katihar,21000,310
+28/08/2026,PATNA,Per Trip,9 FT,Patna,,1,Deoghar,18000,250
+28/08/2026,PATNA,Per Trip,8 FT,Patna,,1,Purnia,20500,310
+28/08/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+28/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+28/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Salem,17000,185
+28/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,26000,390
+28/08/2026,GUWAHATI,Per Trip,TATa 407,Guwahati,,12,Siliguri,28000,460
+29/08/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,6,Durgapur / Asansol / Dhanbad,23000,260
+29/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,8,Jamshedpur / Ranchi,25000,385
+29/08/2026,PATNA,Per Trip,10 FT,Patna,,2,Saharsa,14000,225
+29/08/2026,PATNA,Per Trip,09 FT,Patna,,3,Begusarai / Munger / Khagaria,12000,170
+29/08/2026,PATNA,Per Trip,8 FT,Patna,,1,Siliguri,29000,450
+29/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Bokaro / Hazaribagh,25000,360
+29/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,2,Chitradurga / Tumkur,16500,220
+29/08/2026,BENGALURU,Per Trip,10 FT,Anekal,Tavarekere,1,Ananthapur,17000,235
+29/08/2026,BENGALURU,Per Trip,10 FT,Tavarekere,,2,Salem,17000,205
+29/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+30/08/2026,PATNA,Per Trip,09 FT,Patna (Salimar),Patna,2,Bhagalpur,17000,250
+30/08/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,2,Deoghar / Dumka,22500,270
+30/08/2026,PATNA,Per Trip,9 FT,Patna,,1,Dumka,22500,270
+30/08/2026,PATNA,Per Trip,9 FT,Patna,,1,Siliguri,29000,450
+30/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,Dankuni,1,Khagra,16000,215
+30/08/2026,PATNA,Per Trip,09 FT,Patna,,3,Begusarai / Munger / Khagaria,12000,170
+30/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+30/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+30/08/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+31/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,Uluberia,4,Midnapore / Kharagpur / Bhubaneswar,29000,440
+31/08/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+31/08/2026,GUWAHATI,Per Trip,17FT,Guwahati,,12,Siliguri,28000,460
+31/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,21000,270
+31/08/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,25000,390
+31/08/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+01/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,Dankuni,4,Bokaro / Hazaribagh,25000,370
+01/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+01/09/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,2,Tinsukiya / Dibrugarh,27000,485
+01/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+01/09/2026,GUWAHATI,Per Trip,14FT,Guwahati,,1,Gangtok,37000,550
+02/09/2026,PATNA,Per Trip,09 FT,Patna (Salimar),,5,Begusarai / Khagaria / Saharsa,15000,225
+02/09/2026,PATNA,Per Trip,09 FT,Patna,,2,Saharsa,14000,225
+02/09/2026,PATNA,Per Trip,9 FT,Patna,,3,Begusarai / Khagaria / Saharsa,15000,225
+02/09/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+02/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,8,Jamshedpur / Ranchi,25000,385
+02/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,21000,270
+02/09/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+02/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+03/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,26000,390
+03/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,23000,270
+03/09/2026,PATNA,Per Trip,09 FT,Patna,,2,Bhagalpur,17000,250
+03/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),,3,Deoghar / Dumka,21500,270
+03/09/2026,PATNA,Per Trip,9 FT,Patna,,3,Begusarai / Munger / Khagaria,13000,170
+04/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,8,Jamshedpur / Ranchi,26000,385
+04/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol,18000,205
+04/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,Dankuni,4,Bokaro / Hazaribagh,25000,370
+04/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+04/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,22000,270
+04/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,2,Purnia / Katihar,21000,310
+04/09/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,2,Purnia / Katihar,21000,310
+04/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,3,Begusarai / Munger / Khagaria,13000,170
+04/09/2026,PATNA,Per Trip,9 FT,Patna,,2,Bhagalpur,17000,250
+04/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+04/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+04/09/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+04/09/2026,PATNA,Per Trip,10 FT,Patna,,1,Katihar,21000,300
+04/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,8,Jamshedpur / Ranchi,25000,390
+04/09/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+05/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Bokaro / Hazaribagh,25000,360
+05/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,Dankuni,1,Khagra,16000,215
+06/09/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,23000,260
+06/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,2,Midnapore / Kharagpur / Bhubaneswar,21000,440
+06/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,2,Midnapore / Kharagpur,10000,125
+06/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,23000,270
+06/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Siliguri,27000,450
+06/09/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,3,Deoghar / Dumka,22500,270
+06/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Begusarai / Munger / Khagaria,13000,170
+06/09/2026,PATNA,Per Trip,10 FT,Patna,,1,Deoghar,18000,250
+06/09/2026,PATNA,Per Trip,9 FT,Patna,,1,Dumka,22500,270
+06/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+06/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+06/09/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+06/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,26000,390
+07/09/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+07/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Bhagalpur,17000,250
+07/09/2026,GUWAHATI,Per Trip,08 FT,Guwahati,,2,Tinsukiya / Dibrugarh,26000,485
+07/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,8,Jamshedpur / Ranchi,26000,385
+07/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+07/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+07/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,5,Begusarai / Khagaria / Saharsa,15000,225
+08/09/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,4,Midnapore / Kharagpur / Bhubaneswar,29000,440
+08/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,23000,270
+08/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,Dankuni,4,Bokaro / Hazaribagh,25000,370
+08/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Siliguri,27000,450
+08/09/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,3,Begusarai / Munger / Khagaria,13000,170
+08/09/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+08/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+08/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+09/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+09/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+09/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Chitradurga / Tumkur,16500,220
+09/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Saharsa,14000,225
+09/09/2026,PATNA,Per Trip,9 FT,Patna,,2,Bhagalpur,17000,250
+09/09/2026,PATNA,Per Trip,9 FT,Patna,,1,Saharsa,14000,225
+09/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,Dankuni,1,Khagra,16000,215
+10/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,8,Jamshedpur / Ranchi,26000,385
+10/09/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+10/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Midnapore / Kharagpur / Bhubaneswar,29000,440
+10/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+10/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Bokaro / Hazaribagh,25000,360
+10/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Midnapore / Kharagpur / Bhubaneswar,29000,440
+10/09/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+10/09/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,2,Deoghar / Dumka,22500,270
+10/09/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+10/09/2026,PATNA,Per Trip,9 FT,Patna,,3,Begusarai / Munger / Khagaria,13000,170
+10/09/2026,PATNA,Per Trip,09 FT,Patna (Salimar),,2,Purnia / Katihar,21000,310
+10/09/2026,PATNA,Per Trip,9 FT,Patna,,2,Purnia / Katihar,21000,310
+10/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+10/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,23000,270
+10/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,8,Jamshedpur / Ranchi,25000,390
+11/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,Dankuni,4,Bokaro / Hazaribagh,25000,370
+11/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,4,Durgapur / Asansol / Dhanbad,21000,270
+11/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,26000,390
+03/07/2026,JAIPUR,Per Trip,10 FT,Jaipur,,1,Bikaner,17500,335
+11/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Ananthapur,17000,235
+11/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+11/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Chitradurga / Tumkur,16500,220
+11/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Bhagalpur,17000,250
+11/09/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,4,Midnapore / Kharagpur / Bhubaneswar,29000,440
+12/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,8,Durgapur / Asansol / Dhanbad,21000,260
+12/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Jamshedpur / Ranchi,26000,385
+12/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,3,Begusarai / Munger / Khagaria,10000,170
+13/09/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,23000,260
+13/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Midnapore / Kharagpur / Bhubaneswar,29000,440
+13/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,1,Khagra,16000,205
+13/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+13/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,3,Deoghar / Dumka,21000,270
+13/09/2026,PATNA,Per Trip,9 FT,Patna,,3,Deoghar / Dumka,22500,270
+13/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+13/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+13/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Chitradurga / Tumkur,16500,220
+13/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+13/09/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+13/09/2026,GUWAHATI,Per Trip,08 FT,Guwahati,,2,Tinsukiya / Dibrugarh,26000,485
+13/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,23000,270
+14/09/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,4,Srinagar J&K,32000,530
+14/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Bokaro / Hazaribagh,25000,360
+14/09/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,8,Jamshedpur / Ranchi,25000,385
+14/09/2026,PATNA,Per Trip,10 FT,Patna,,2,Bhagalpur,17000,250
+14/09/2026,PATNA,Per Trip,9 FT,Patna,,3,Begusarai / Munger / Khagaria,13000,170
+14/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,1,Bhubaneswar,29000,420
+14/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,26000,390
+15/09/2026,GUWAHATI,Per Trip,14 FT,Guwahati,,1,Gangtok,37000,550
+15/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+15/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,Dankuni,4,Bokaro / Hazaribagh,25000,370
+15/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,2,Saharsa,14000,225
+15/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+15/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+15/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,23000,270
+16/09/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,4,Bokaro / Hazaribagh,25000,360
+16/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+16/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Purnia / Katihar,21000,310
+16/09/2026,PATNA,Per Trip,10 FT,Patna,,1,Siliguri,29000,450
+16/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Begusarai / Munger / Khagaria,13000,170
+16/09/2026,PATNA,Per Trip,09 FT,Patna (Salimar),Patna,2,Bhagalpur,17000,250
+16/09/2026,PATNA,Per Trip,9 FT,Patna,,2,Saharsa,14000,225
+16/09/2026,PATNA,Per Trip,9 FT,Patna,,2,Saharsa,14000,225
+16/09/2026,PATNA,Per Trip,9 FT,Patna,,2,Saharsa,14000,225
+16/09/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+16/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,Dankuni,1,Khagra,16000,215
+16/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Midnapore / Kharagpur / Bhubaneswar,29000,440
+16/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+17/09/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+17/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Jamshedpur,19000,245
+17/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Ranchi,25000,385
+17/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Hubli,28000,430
+17/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+17/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,7,Jamshedpur / Ranchi,25000,390
+17/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+17/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Begusarai / Munger / Khagaria,13000,170
+17/09/2026,PATNA,Per Trip,09 FT,Patna,,1,Siliguri,29000,450
+18/09/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,2,Jorhat / Dibrugarh,25000,440
+18/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+18/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),,1,Siliguri,29000,450
+18/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),,2,Purnia / Katihar,21000,310
+18/09/2026,PATNA,Per Trip,10 FT,Patna,,2,Purnia / Katihar,21000,310
+18/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,23000,270
+17/08/2026,BENGALURU,Per Trip,10 FT,Bengaluru,,2,Chitradurga / Tumkur,16500,200
+18/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+19/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,8,Jamshedpur / Ranchi,25000,390
+19/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,Dankuni,4,Bokaro / Hazaribagh,25000,370
+19/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Begusarai / Munger / Khagaria,13000,170
+19/09/2026,PATNA,Per Trip,09 FT,Patna (Salimar),Patna,2,Bhagalpur,17000,250
+20/09/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,4,Midnapore / Kharagpur / Bhubaneswar,29000,440
+20/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,5,Ranchi,25000,385
+20/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Durgapur / Asansol,18000,205
+20/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Dhanbad,21000,260
+20/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,7,Durgapur / Asansol / Dhanbad,21000,270
+20/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Ananthapur,17000,235
+20/09/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+20/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+20/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,3,Deoghar / Dumka,21000,270
+20/09/2026,PATNA,Per Trip,09 FT,Patna (Salimar),Patna,2,Saharsa,14000,225
+20/09/2026,PATNA,Per Trip,10 FT,Patna,,3,Deoghar / Dumka,22500,270
+20/09/2026,HYDERABAD,Per Trip,09 FT,Hyderabad,,3,Hanamkonda / Khasibugga / Karimnagar,14000,165
+20/09/2026,HYDERABAD,Per Trip,8 FT,Hyderabad,,1,Kurnool,14000,215
+13/09/2026,BENGALURU,Per Trip,10 FT,Bengaluru,,,,0,30
+21/09/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+21/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Chitradurga / Tumkur,16500,220
+21/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+21/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Hubli,28000,430
+21/09/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,3,Begusarai / Munger / Khagaria,13000,170
+21/09/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,2,Jorhat / Dibrugarh,27000,440
+21/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,3,Midnapore / Kharagpur / Bhubaneswar,29000,440
+21/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,5,Jamshedpur / Ranchi,25000,390
+21/09/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+22/09/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,1,Gangtok,35000,550
+22/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Jamshedpur,19000,245
+22/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,Dankuni,4,Bokaro / Hazaribagh,26000,370
+22/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Durgapur / Asansol / Dhanbad,21000,270
+22/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Bhagalpur,17000,250
+22/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+22/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+22/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Chitradurga / Tumkur,16500,220
+22/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+22/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Hubli,28000,430
+22/09/2026,HYDERABAD,Per Trip,8 FT,Hyderabad,,2,Karimnagar / Warangal,14000,165
+23/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,5,Ranchi,25000,385
+23/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,7,Durgapur / Asansol / Dhanbad,21000,260
+23/09/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,4,Midnapore / Kharagpur / Bhubaneswar,29000,440
+23/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Siliguri,27000,450
+23/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Saharsa,12000,225
+23/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Begusarai / Munger / Khagaria,13000,170
+23/09/2026,PATNA,Per Trip,9 FT,Patna,,2,Saharsa,14000,225
+23/09/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,2,Jorhat / Dibrugarh,29000,440
+23/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+23/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Hubli,28000,430
+23/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,26000,390
+23/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,8,Durgapur / Asansol / Dhanbad,23000,270
+24/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,Dankuni,1,Khagra,16000,215
+24/09/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+24/09/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,2,Jorhat / Dibrugarh / Tinsukia,28000,485
+24/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Dankuni,,8,Durgapur / Asansol / Dhanbad,24000,260
+19/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Durgapur / Asansol / Dhanbad,21000,270
+24/09/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+24/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Midnapore / Kharagpur / Bhubaneswar,29000,440
+24/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,2,Saharsa,14000,225
+24/09/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,2,Deoghar / Dumka,22500,270
+24/09/2026,PATNA,Per Trip,10 FT,Patna,,2,Deoghar / Dumka,22500,270
+24/09/2026,PATNA,Per Trip,9 FT,Patna,,2,Purnia,20500,310
+24/09/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,2,Purnia / Katihar,21000,310
+24/09/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,2,Bhagalpur,17000,250
+24/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Salem,17000,185
+24/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Chitradurga / Tumkur,16500,220
+24/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Ananthapur,17000,235
+25/09/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+25/09/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,4,Bokaro / Hazaribagh,25000,360
+25/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Jamshedpur,19000,245
+25/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,5,Ranchi,25000,385
+25/09/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,3,Purnia / Katihar,21000,310
+25/09/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,2,Begusarai / Munger / Khagaria,13000,170
+25/09/2026,HYDERABAD,Per Trip,8 FT,Hyderabad,,3,Karimnagar / Warangal,14000,165
+25/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Hubli,28000,430
+25/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+26/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Jamshedpur / Ranchi,26000,390
+26/09/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,4,Midnapore / Kharagpur / Bhubaneswar,29000,440
+26/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Bhagalpur,16000,250
+26/09/2026,PATNA,Per Trip,9 FT,Patna,,3,Begusarai / Munger / Khagaria,13000,170
+27/09/2026,PATNA,Per Trip,8 FT,Patna,,,Bhagalpur,17000,250
+27/09/2026,PATNA,Per Trip,9 FT,Patna,,,Bhagalpur,17000,250
+27/09/2026,PATNA,Per Trip,9 FT,Patna (Salimar),,,Bhagalpur,17000,250
+27/09/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,,Durgapur / Asansol / Dhanbad,23000,260
+27/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,9,Durgapur / Asansol / Dhanbad,21000,270
+27/09/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+27/09/2026,PATNA,Per Trip,09 FT,Patna (Salimar),Patna,2,Deoghar / Dumka,22500,270
+27/09/2026,PATNA,Per Trip,10 FT,Patna,,2,Deoghar,18000,250
+27/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,1,Bhagalpur,17000,250
+27/09/2026,HYDERABAD,Per Trip,12 FT,Anekal,,3,Hanamkonda / Khasibugga / Karimnagar,16000,715
+27/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+27/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Durgapur / Asansol / Dhanbad,21000,270
+27/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,4,Bokaro / Hazaribagh,25000,370
+27/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Begusarai / Munger / Khagaria,13000,170
+27/09/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,4,Midnapore / Kharagpur / Bhubaneswar,30000,440
+27/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+27/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Chitradurga / Tumkur,16500,220
+27/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+28/09/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+28/09/2026,PATNA,Per Trip,09 FT,Patna (Salimar),,2,Bhagalpur,17000,250
+28/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),,2,Purnia / Katihar,20000,310
+28/09/2026,KOLKATA ULUBERIA,Per Trip,10 FT,Uluberia,,8,Durgapur / Asansol / Dhanbad,23000,270
+28/09/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,3,Jorhat / Dibrugarh / Tinsukia,26000,485
+28/09/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,3,Jorhat / Dibrugarh / Tinsukia,29000,485
+28/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Hubli,28000,430
+28/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+28/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Davangere / Shivamoga,22500,310
+28/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Bokaro / Hazaribagh,25000,360
+29/09/2026,GUWAHATI,Per Trip,14 FT,Guwahati,,1,Gangtok,37000,550
+29/09/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Siliguri,27000,450
+29/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,2,Bhagalpur,17000,250
+29/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,9,Durgapur / Asansol / Dhanbad,21000,260
+29/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,Dankuni,1,Khagra,16000,215
+29/09/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Midnapore / Kharagpur / Bhubaneswar,29000,440
+29/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Begusarai / Munger / Khagaria,13000,170
+29/09/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+29/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Salem,17000,185
+29/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,9,Jamshedpur / Ranchi,25000,390
+29/09/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,8,Jamshedpur / Ranchi,25000,385
+30/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),,1,Saharsa,14000,225
+30/09/2026,PATNA,Per Trip,8 FT,Patna (Salimar),,3,Begusarai / Munger / Khagaria,13000,170
+30/09/2026,PATNA,Per Trip,9 FT,Patna (Salimar),,1,Bhagalpur,17000,250
+30/09/2026,PATNA,Per Trip,9 FT,Patna (Salimar),,2,Bhagalpur,17000,250
+30/09/2026,PATNA,Per Trip,9 FT,Patna,,1,Saharsa,14000,225
+30/09/2026,PATNA,Per Trip,10 FT,Patna,,1,Saharsa,14000,225
+30/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+30/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Hubli,28000,430
+30/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Bellary / Hospete,22000,350
+30/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Davangere / Shivamoga,22500,310
+30/09/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+30/09/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,3,Jorhat / Dibrugarh,26000,440
+30/09/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Channai,18500,340
+30/09/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,4,Midnapore / Kharagpur / Bhubaneswar,29000,440
+30/09/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,8,Durgapur / Asansol / Dhanbad,24000,260
+30/09/2026,HYDERABAD,Per Trip,8 FT,Hyderabad,,1,Khammam,14000,195
+30/09/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,4,Jorhat / Dibrugarh / Tinsukia,29000,485
+30/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,9,Durgapur / Asansol / Dhanbad,22000,270
+30/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,Dankuni,4,Bokaro / Hazaribagh,25000,370
+30/09/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,9,Jamshedpur / Ranchi,26000,390
+01/10/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+01/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),,2,Purnia / Katihar,20000,310
+01/10/2026,PATNA,Per Trip,9 FT,Patna,,2,Purnia / Katihar,21000,310
+01/10/2026,PATNA,Per Trip,8 FT,Patna (Salimar),,2,Saharsa,14000,225
+01/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem / Tripur,17000,270
+01/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+01/10/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,4,Jorhat / Golaghat / Dibrugarh,24000,440
+01/10/2026,HYDERABAD,Per Trip,10 FT,Hyderabad,,1,Vijaywada,15000,275
+02/10/2026,VIJAYWADA,Per Trip,10 FT,Vijaywada,,3,Rajahmundry  / Kakinada,10000,
+02/10/2026,HYDERABAD,Per Trip,8 FT,Hyderabad,,1,Vijaywada,15000,275
+02/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Mysore,13000,155
+02/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Mysore,13000,155
+02/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Chitradurga / Tumkur,16500,220
+02/10/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+02/10/2026,PATNA,Per Trip,09 FT,Patna (Salimar),,3,Begusarai / Munger / Khagaria,13000,170
+02/10/2026,PATNA,Per Trip,09 FT,Patna (Salimar),,2,Deoghar / Dumka,22500,270
+02/10/2026,PATNA,Per Trip,10 FT,Patna,,1,Bhagalpur,17000,250
+02/10/2026,PATNA,Per Trip,9 FT,Patna,,2,Deoghar / Dumka,22500,270
+02/10/2026,KOLKATA ULUBERIA,Per Trip,8 FT,Uluberia,,8,Durgapur / Asansol / Dhanbad,22000,270
+02/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,8,Durgapur / Asansol / Dhanbad,23000,260
+02/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,9,Jamshedpur / Ranchi,25000,385
+03/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Ranchi,25000,385
+03/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Jamshedpur,18000,245
+03/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Durgapur / Asansol,16000,215
+03/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,10,Durgapur / Asansol / Dhanbad,22000,260
+03/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,5,Midnapore / Kharagpur / Bhubaneswar,29000,440
+03/10/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,3,Jorhat / Golaghat / Dibrugarh,25000,440
+03/10/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,5,Jorhat / Dibrugarh / Tinsukia,29000,485
+03/10/2026,PATNA,Per Trip,10 FT,Patna,,2,Purnia / Katihar,20000,310
+03/10/2026,PATNA,Per Trip,10 FT,Patna,,2,Bhagalpur,16000,250
+04/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,5,Dhanbad,23000,270
+04/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,5,Durgapur / Asansol,18000,215
+04/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,3,Kharagpur,11000,115
+04/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Bokaro / Hazaribagh,25000,370
+04/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,1,Midnapore,11000,120
+04/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Bhagalpur,16000,250
+04/10/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,1,Darbhanga / Madhubani,13000,170
+04/10/2026,PATNA,Per Trip,9 FT,Patna,,2,Bhagalpur,17000,250
+04/10/2026,HYDERABAD,Per Trip,09 FT,Hyderabad,,3,Karimnagar / Warangal,14000,165
+04/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Salem,17000,185
+04/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+05/10/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+05/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Ranchi,24000,385
+05/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,1,Khagra,16000,215
+05/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Jamshedpur,19000,245
+05/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Durgapur / Asansol,18000,215
+05/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,5,Dhanbad,23000,270
+05/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,5,Bokaro / Hazaribagh,25000,370
+05/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,4,Midnapore / Kharagpur / Bhubaneswar,29000,440
+05/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Siliguri,27000,450
+05/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Purnia / Katihar,20000,310
+05/10/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,3,Begusarai / Munger / Khagaria,13000,170
+05/10/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,2,Bhagalpur,17000,250
+05/10/2026,GUWAHATI,Per Trip,10 FT,Guwahati,Chhegaon GUW,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,28000,485
+06/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Bokaro / Hazaribagh,26000,360
+06/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,9,Jamshedpur / Ranchi,26000,385
+06/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Kharagpur,11000,115
+06/10/2026,GUWAHATI,Per Trip,10 FT,Guwahati,Chhegaon GUW,4,Jorhat / Golaghat / Dibrugarh / Tinsukia,30000,485
+06/10/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Darbhanga / Madhubani,13000,170
+06/10/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,3,Deoghar / Dumka,22500,270
+06/10/2026,PATNA,Per Trip,9 FT,Patna,,3,Deoghar / Dumka,22500,270
+06/10/2026,HYDERABAD,Per Trip,10 FT,Hyderabad,,3,Hanamkonda / Khasibugga / Karimnagar,13000,165
+06/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+06/10/2026,SURAT,Per Trip,32 FT,Surat,,1,Farrukhnagar,70000,"1,100"
+07/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,5,Durgapur / Asansol,18000,215
+07/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,5,Ranchi,23000,385
+07/10/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+07/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Hubli,28000,430
+07/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Coimbatore,21000,350
+07/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Channai,18500,340
+07/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Madurai,21000,420
+07/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,6,Mysore,13000,155
+07/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,10,Durgapur / Asansol / Dhanbad,22000,260
+07/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,5,Midnapore / Kharagpur / Bhubaneswar,30000,440
+07/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Saharsa,12000,225
+07/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Bhagalpur,16000,250
+07/10/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Darbhanga / Madhubani,13000,170
+07/10/2026,PATNA,Per Trip,9 FT,Patna,,2,Saharsa,14000,225
+07/10/2026,GUWAHATI,Per Trip,10 FT,Guwahati,Chhegaon GUW,3,Jorhat / Golaghat / Dibrugarh,30000,440
+08/10/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+08/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,4,Midnapore / Kharagpur / Bhubaneswar,29000,440
+08/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,1,Khagra,16000,205
+08/10/2026,GUWAHATI,Per Trip,08 FT,Guwahati,,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,27000,485
+08/10/2026,HYDERABAD,Per Trip,09 FT,Hyderabad,,3,Karimnagar / Warangal,14000,165
+08/10/2026,PATNA,Per Trip,8 FT,Patna (Salimar),,3,Darbhanga / Madhubani,13000,170
+08/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),,1,Bhagalpur,16000,250
+08/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+08/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Madurai,21000,420
+08/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Davangere / Shivamoga,22500,310
+08/10/2026,Raipur,Per Trip,10 FT,Raipur,,7,Nagpur,18000,285
+08/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,6,Mysore,13000,155
+09/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,9,Jamshedpur / Ranchi,26000,385
+09/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,10,Jamshedpur / Ranchi,26000,385
+09/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,7,Durgapur / Asansol / Dhanbad,23000,270
+09/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,5,Durgapur / Asansol,18000,215
+09/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Siliguri,27000,450
+09/10/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,2,Saharsa,14000,225
+09/10/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,2,Purnia / Katihar,21000,310
+09/10/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Darbhanga / Madhubani,13000,170
+09/10/2026,PATNA,Per Trip,9 FT,Patna,,2,Purnia / Katihar,21000,310
+09/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Salem,17000,185
+09/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+09/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,6,Mysore,13000,155
+09/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Tumkur / Chitradurga / Hospete,16500,350
+09/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+08/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+09/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+10/10/2026,GUWAHATI,Per Trip,14 FT,Guwahati,Chhegaon GUW,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,32000,485
+10/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+10/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,5,Bokaro / Hazaribagh,26000,370
+10/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Kharagpur,11000,115
+10/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Durgapur / Asansol,18000,215
+10/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,5,Bokaro / Hazaribagh,26000,360
+10/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,9,Durgapur / Asansol / Dhanbad,22000,260
+10/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,3,Darbhanga / Madhubani,12000,170
+10/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,4,Tumkur / Chitradurga / Davangere,21000,275
+10/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+11/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+11/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Durgapur / Asansol / Dhanbad,22000,270
+11/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Jamshedpur / Ranchi,26000,385
+11/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Durgapur / Asansol,18000,215
+11/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,5,Jamshedpur,19000,245
+11/10/2026,GUWAHATI,Per Trip,08 FT,Guwahati,,4,Jorhat / Golaghat / Dibrugarh,28000,440
+11/10/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+11/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,6,Mysore,13000,155
+11/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Tumkur / Hospet,16500,350
+11/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Hubli,28000,430
+11/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Davangere / Shivamoga,22500,310
+11/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Midnapore / Kharagpur,11000,120
+11/10/2026,PATNA,Per Trip,9 FT,Patna,,1,Bhagalpur,17000,250
+12/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+12/10/2026,HYDERABAD,Per Trip,12 FT,Hyderabad,,3,Karimnagar / Warangal,16000,165
+12/10/2026,HYDERABAD,Per Trip,10 FT,Hyderabad,,1,Kurnool,13000,215
+12/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,5,Midnapore / Kharagpur / Bhubaneswar,30000,440
+12/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,10,Durgapur / Asansol / Dhanbad,23000,260
+12/10/2026,GUWAHATI,Per Trip,10 FT,Chhegaon GUW,Guwahati,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,29000,485
+12/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+12/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,6,Mysore,13000,155
+12/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,9,Jamshedpur / Ranchi,25000,385
+12/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Durgapur / Asansol,18000,215
+12/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Midnapore / Kharagpur,11000,120
+12/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,4,Jamshedpur,19000,245
+12/10/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+12/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Purnia / Katihar,20000,310
+12/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Saharsa,12000,225
+12/10/2026,PATNA,Per Trip,9 FT,Patna,,2,Saharsa,14000,225
+13/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+13/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,Dankuni,1,Khagra,16000,215
+13/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,5,Dhanbad,23000,270
+13/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,Dankuni,4,Bokaro / Hazaribagh,26000,370
+13/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,7,Durgapur / Asansol / Dhanbad,22000,270
+13/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,6,Mysore,13000,155
+13/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Coimbatore,21000,350
+13/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Coimbatore,21000,350
+13/10/2026,PATNA,Per Trip,10 FT,Patna,,1,Siliguri,27000,450
+13/10/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Darbhanga / Madhubani,13000,170
+13/10/2026,PATNA,Per Trip,9 FT,Patna,,3,Darbhanga / Madhubani,13000,170
+13/10/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,29000,485
+13/10/2026,PATNA,Per Trip,9 FT,Patna,,3,Darbhanga / Madhubani,13000,170
+13/10/2026,GUWAHATI,Per Trip,14 FT,Guwahati,,1,Gangtok,37000,550
+14/10/2026,HYDERABAD,Per Trip,12 FT,Hyderabad,,3,Karimnagar / Warangal,16000,165
+14/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Jamshedpur,19000,245
+14/10/2026,GUWAHATI,Per Trip,08 FT,Guwahati,Chhegaon GUW,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,28000,485
+14/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,10,Durgapur / Asansol / Dhanbad,23000,260
+14/10/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,28000,485
+14/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Saharsa,12000,225
+14/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,9,Durgapur / Asansol / Dhanbad,23000,270
+14/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Midnapore / Kharagpur,11000,120
+14/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Jamshedpur,19000,245
+14/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+14/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Chitradurga / Tumkur,16500,220
+14/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,5,Mysore,13000,155
+14/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Madurai,21000,420
+14/10/2026,HYDERABAD,Per Trip,09 FT,Hyderabad,,3,Karimnagar / Warangal,14000,165
+14/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+15/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Ranchi,24000,385
+15/10/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+15/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,3,Darbhanga / Madhubani,12000,170
+15/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,4,Bokaro / Hazaribagh,25000,370
+15/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Mysore,13000,155
+15/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Mysore,13000,155
+15/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Hubli,28000,430
+15/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Coimbatore,21000,350
+15/10/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+15/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+16/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+16/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,9,Jamshedpur / Ranchi,25000,385
+16/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Midnapore / Kharagpur,11000,125
+16/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,Dankuni,1,Khagra,16000,215
+16/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Purnia / Katihar,20000,310
+16/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Saharsa,12000,225
+16/10/2026,GUWAHATI,Per Trip,08 FT,Guwahati,Chhegaon GUW,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,28000,485
+16/10/2026,PATNA,Per Trip,9 FT,Patna,,2,Purnia / Katihar,21000,310
+16/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+16/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+16/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Madurai,21000,420
+09/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Mysore,0,155
+13/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Davangere / Shivamoga,0,310
+16/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,6,Durgapur / Asansol / Dhanbad,22000,270
+17/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+17/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,7,Durgapur / Asansol,18000,215
+17/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,10,Durgapur / Asansol / Dhanbad,22000,260
+17/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,4,Bokaro / Hazaribagh,25000,360
+17/10/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Darbhanga / Madhubani,12000,170
+17/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Bhagalpur,16000,250
+17/10/2026,GUWAHATI,Per Trip,10 FT,Guwahati,Chhegaon GUW,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,28000,485
+17/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Mysore,13000,155
+17/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Davangere / Shivamoga,22500,310
+17/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+17/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Mysore,13000,155
+17/10/2026,HYDERABAD,Per Trip,10 FT,Hyderabad,,3,Karimnagar / Warangal,13000,165
+18/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,4,Jamshedpur,19000,245
+18/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,4,Bokaro / Hazaribagh,25000,370
+18/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Midnapore / Kharagpur,11000,120
+18/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,5,Midnapore / Kharagpur / Bhubaneswar,30000,440
+18/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,10,Durgapur / Asansol / Dhanbad,22000,260
+18/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,3,Darbhanga / Madhubani,12000,170
+18/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,4,Mysore,13000,155
+18/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Chitradurga / Tumkur,16500,220
+18/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+18/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Madurai,21000,420
+18/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+18/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+18/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+19/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Durgapur / Asansol,18000,215
+19/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Bokaro / Hazaribagh,26000,360
+19/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,9,Jamshedpur / Ranchi,25000,385
+19/10/2026,GUWAHATI,Per Trip,08 FT,Guwahati,Chhegaon GUW,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,28000,485
+19/10/2026,Raipur,Per Trip,20 FT,Raipur,,7,Nagpur,19000,285
+19/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Ranchi,24000,385
+19/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+19/10/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+19/10/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,2,Purnia / Katihar,21000,310
+19/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+19/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,4,Mysore,13000,155
+19/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,4,Ballari / Hospet / Anantapur,21000,350
+19/10/2026,HYDERABAD,Per Trip,10 FT,Hyderabad,,3,Karimnagar / Warangal,13000,165
+19/10/2026,HYDERABAD,Per Trip,09 FT,Hyderabad,,1,Kurnool,13000,215
+20/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+20/10/2026,GUWAHATI,Per Trip,14 FT,Guwahati,,1,Gangtok,37000,550
+20/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,9,Jamshedpur / Ranchi,25000,385
+20/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Dhanbad,21000,270
+20/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Durgapur / Asansol,18000,215
+20/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,10,Durgapur / Asansol / Dhanbad,23000,260
+20/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,1,Khagra,16000,205
+20/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Purnia / Katihar,20000,310
+20/10/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Darbhanga / Madhubani,13000,170
+20/10/2026,PATNA,Per Trip,09 FT,Patna (Salimar),Patna,2,Saharsa,14000,225
+20/10/2026,PATNA,Per Trip,9 FT,Patna,,2,Saharsa,14000,225
+20/10/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+20/10/2026,GUWAHATI,Per Trip,10 FT,Guwahati,Chhegaon GUW,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,28000,485
+20/10/2026,HYDERABAD,Per Trip,12 FT,Hyderabad,,3,Karimnagar / Warangal,13000,165
+20/10/2026,HYDERABAD,Per Trip,09 FT,Hyderabad,,1,Vijaywada,16000,275
+21/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+21/10/2026,GUWAHATI,Per Trip,10 FT,Guwahati,Chhegaon GUW,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,29000,485
+21/10/2026,VIJAYWADA,Per Trip,09 FT,Vijaywada,,3,Rajahmundry  / Kakinada,10000,
+21/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Salem,17000,185
+21/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Shivamoga / Nituvalli / Vinobnagar,21000,310
+21/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Gandhinagar / Contonment / Anantapur,17000,240
+01/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Bokaro / Hazaribagh,0,360
+21/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,4,Bokaro / Hazaribagh,25000,370
+21/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Midnapore / Kharagpur / Bhubaneswar,30000,430
+21/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,5,Mysore,13000,155
+21/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+21/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+21/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+22/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+22/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,3,Darbhanga / Madhubani,12000,170
+22/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Midnapore / Kharagpur,11000,125
+22/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,10,Durgapur / Asansol / Dhanbad,22000,260
+22/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,5,Jamshedpur / Ranchi,25000,385
+22/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Madurai,21000,420
+22/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+22/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Ranchi,24000,385
+22/10/2026,HYDERABAD,Per Trip,09 FT,Hyderabad,,3,Karimnagar / Warangal,14000,165
+22/10/2026,MUMBAI,Per Trip,32 FT,Taloja,,1,Taloja,16000,25
+22/10/2026,MUMBAI,Per Trip,32 FT,Taloja,,1,Taloja,16000,25
+22/10/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+17/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,3,Darbhanga / Madhubani,0,170
+23/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+23/10/2026,MUMBAI,Per Trip,32 FT,Taloja,,1,Taloja,16000,25
+23/10/2026,MUMBAI,Per Trip,32 FT,Taloja,,1,Taloja,16000,25
+23/10/2026,GUWAHATI,Per Trip,08 FT,Guwahati,Chhegaon GUW,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,28000,485
+23/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,6,Durgapur / Asansol,18000,215
+23/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Bokaro / Hazaribagh,26000,360
+23/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Siliguri,27000,450
+23/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Bhagalpur,16000,250
+23/10/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,2,Purnia / Katihar,21000,310
+23/10/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,2,Saharsa,14000,225
+23/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Tumkur / Chitradurga / Hospete,17000,350
+23/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Salem,17000,185
+23/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,4,Mysore,13000,155
+23/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+23/10/2026,HYDERABAD,Per Trip,08 FT,Hyderabad,,,Karimnagar / Warangal,13000,165
+24/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+24/10/2026,MUMBAI,Per Trip,32 FT,Mumbai,,1,Mumbai,16000,35
+24/10/2026,MUMBAI,Per Trip,32 FT,Mumbai,,1,Mumbai,16000,35
+24/10/2026,SURAT,Per Trip,14 FT,Surat,,3,Mumbai,12000,280
+24/10/2026,SURAT,Per Trip,20 FT,Surat,,3,Mumbai,20000,280
+24/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Midnapore / Kharagpur,11000,120
+24/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Dhanbad,21000,270
+24/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,6,Durgapur / Asansol,18000,215
+24/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Jamshedpur,19000,245
+24/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,10,Durgapur / Asansol / Dhanbad,23000,260
+24/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,3,Darbhanga / Madhubani,12000,170
+24/10/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,28000,485
+24/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Mysore,13000,155
+24/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,4,Mysore,13000,155
+24/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Tumkur / Chitradurga / Shivamoga,17000,310
+24/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Bellary / Hospete,17000,350
+24/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+24/10/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+25/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+25/10/2026,MUMBAI,Per Trip,32 FT,Mumbai,,1,Mumbai,16000,35
+25/10/2026,MUMBAI,Per Trip,32 FT,Mumbai,,1,Mumbai,16000,35
+25/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,1,Khagra,16000,215
+25/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Midnapore / Kharagpur,11000,120
+25/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Ranchi,24000,385
+25/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,6,Durgapur / Asansol,18000,215
+25/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Bokaro / Hazaribagh,26000,370
+25/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Jamshedpur,19000,245
+25/10/2026,KOLKATA DANKUNI,Per Trip,09 FT,Dankuni,,10,Durgapur / Asansol / Dhanbad,23000,260
+25/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,9,Jamshedpur / Ranchi,25000,385
+25/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,1,Khagra,16000,205
+25/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Ballari / Hospet / Anantapur,17000,350
+25/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Madurai,21000,420
+25/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,4,Chitradurga / Davangere /Shivamoga,22500,310
+25/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+25/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Salem,17000,185
+25/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,4,Mysore,13000,155
+25/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Mysore,13000,155
+25/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+25/10/2026,GUWAHATI,Per Trip,10 FT,Guwahati,,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,29000,485
+25/10/2026,GUWAHATI,Per Trip,08 FT,Guwahati,Chhegaon GUW,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,28000,485
+25/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Bhagalpur,16000,250
+25/10/2026,PATNA,Per Trip,10 FT,Patna,,1,Siliguri,27000,450
+25/10/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+25/10/2026,Raipur,Per Trip,10 FT,Raipur,,7,Nagpur,19000,285
+25/10/2026,HYDERABAD,Per Trip,12 FT,Hyderabad,,3,Karimnagar / Warangal,16000,165
+25/10/2026,SURAT,Per Trip,14 FT,Surat,,3,Mumbai,12000,280
+26/10/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Ludhiana,32000,25
+26/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+26/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,4,Ballari / Hospet / Anantapur,17000,350
+26/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,6,Mysore,13000,155
+26/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Salem,17000,185
+26/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,5,Chitradurga / Davangere /Shivamoga,22500,310
+26/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Midnapore / Kharagpur,11000,125
+26/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Bokaro / Hazaribagh,26000,360
+26/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,4,Dhanbad,22000,270
+26/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,5,Ranchi,24000,385
+26/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Midnapore / Kharagpur,11000,120
+26/10/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,2,Saharsa,14000,225
+26/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,2,Purnia / Katihar,20000,310
+26/10/2026,PATNA,Per Trip,10 FT,Patna,,2,Purnia / Katihar,20000,310
+26/10/2026,PATNA,Per Trip,9 FT,Patna,,2,Saharsa,13000,225
+26/10/2026,GUWAHATI,Per Trip,10 FT,Guwahati,Chhegaon GUW,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,29000,485
+26/10/2026,MUMBAI,Per Trip,32 FT,Mumbai,,1,Mumbai,16000,35
+26/10/2026,MUMBAI,Per Trip,32 FT,Mumbai,,1,Mumbai,16000,35
+26/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+27/10/2026,GUWAHATI,Per Trip,10 FT,Guwahati,Chhegaon GUW,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,26000,485
+27/10/2026,Raipur,Per Trip,10 FT,Raipur,,7,Nagpur,19000,285
+27/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,3,Durgapur / Asansol,18000,215
+27/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,3,Durgapur / Asansol,18000,215
+27/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,9,Jamshedpur / Ranchi,26000,385
+27/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Bhagalpur,16000,250
+27/10/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Darbhanga / Madhubani,13000,170
+27/10/2026,PATNA,Per Trip,9 FT,Patna,,3,Darbhanga / Madhubani,13000,170
+27/10/2026,PATNA,Per Trip,9 FT,Patna (Salimar),Patna,1,Siliguri,29000,450
+27/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+27/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Ballari / Hospet / Anantapur,17000,350
+27/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,5,Tumkur / Chitradurga / Davangere /Shivamoga,22500,310
+27/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+27/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Mysore,13000,155
+27/10/2026,MUMBAI,Per Trip,32 FT,Mumbai,,1,Mumbai,16000,35
+27/10/2026,MUMBAI,Per Trip,32 FT,Mumbai,,1,Mumbai,16000,35
+27/10/2026,LUDHIANA,Per Trip,32 FT,Ludhiana,,1,Ludhiana,13000,25
+27/10/2026,GUWAHATI,Per Trip,14 FT,Guwahati,,1,Gangtok,37000,550
+27/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+27/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,4,Jamshedpur,19000,245
+27/10/2026,HYDERABAD,Per Trip,10 FT,Hyderabad,,1,Kurnool,12000,215
+28/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,6,Durgapur / Asansol / Dhanbad,22000,270
+28/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,10,Durgapur / Asansol / Dhanbad,23000,260
+28/10/2026,GUWAHATI,Per Trip,08 FT,Guwahati,,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,28000,485
+28/10/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,2,Saharsa,14000,225
+28/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,6,Durgapur / Asansol / Dhanbad,22000,270
+28/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,1,Khagra,16000,215
+28/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Bokaro / Hazaribagh,26000,370
+28/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,5,Mysore,13000,155
+28/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,2,Chitradurga / Tumkur,16500,220
+28/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,4,Midnapore / Kharagpur,11000,120
+29/10/2026,Raipur,Per Trip,10 FT,Raipur,,7,Nagpur,19000,285
+29/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,5,Ranchi,24000,385
+29/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Ballari / Hospet,17000,350
+29/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Tumkur / Davangere /Shivamoga,22500,310
+29/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,3,Mysore,13000,155
+29/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,4,Mysore,13000,155
+29/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Salem,17000,185
+29/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Hubli,28000,430
+29/10/2026,GUWAHATI,Per Trip,10 FT,Guwahati,Chhegaon GUW,5,Jorhat / Golaghat / Dibrugarh / Tinsukia,29000,485
+29/10/2026,PATNA,Per Trip,10 FT,Patna (Salimar),Patna,1,Siliguri,27000,450
+29/10/2026,PATNA,Per Trip,8 FT,Patna (Salimar),Patna,3,Darbhanga / Madhubani,13000,170
+29/10/2026,COIMBATORE,Per Trip,10 FT,Coimbatore,,4,Karur / Tirchy / Thanjavur,21000,270
+29/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,4,Bokaro / Hazaribagh,26000,360
+29/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,9,Jamshedpur / Ranchi,25000,385
+29/10/2026,KOLKATA DANKUNI,Per Trip,09 FT,Dankuni,,10,Durgapur / Asansol / Dhanbad,23000,260
+29/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,1,Khagra,16000,205
+29/10/2026,KOLKATA DANKUNI,Per Trip,8 FT,Dankuni,,4,Midnapore / Kharagpur,11000,125
+29/10/2026,KOLKATA DHULAGARH,Per Trip,10 FT,Dhulagarh,,6,Durgapur / Asansol / Dhanbad,21000,270
+29/10/2026,HYDERABAD,Per Trip,09 FT,Hyderabad,,3,Karimnagar / Warangal,13000,165
+29/10/2026,BENGALURU,Per Trip,10 FT,Anekal,,1,Coimbatore,21000,350
+29/10/2026,LUDHIANA,Per Trip,10 FT,Ludhiana,,3,Srinagar J&K,32000,530
+28/10/2026,MUMBAI,Per Trip,32 FT,Mumbai,,1,Mumbai,16000,35
+29/10/2026,MUMBAI,Per Trip,32 FT,Mumbai,,1,Mumbai,16000,35
+30/10/2026,MUMBAI,Per Trip,32 FT,Mumbai,,1,Mumbai,16000,35
+30/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,6,Durgapur / Asansol,,215
+30/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Midnapore / Kharagpur,,120
+30/10/2026,KOLKATA DHULAGARH,Per Trip,8 FT,Dhulagarh,,4,Jamshedpur,,245
+30/10/2026,KOLKATA DANKUNI,Per Trip,10 FT,Dankuni,,10,Durgapur / Asansol / Dhanbad,,260
+30/10/2026,PATNA,Per Trip,10 FT,,,,,,
+30/10/2026,PATNA,Per Trip,10 FT,,,,,,
+30/10/2026,Raipur,Per Trip,10 FT,,,,,,
+30/10/2026,BENGALURU,Per Trip,10 FT,,,,,,
+30/10/2026,BENGALURU,Per Trip,10 FT,,,,,,
+30/10/2026,BENGALURU,Per Trip,10 FT,,,,,,
+30/10/2026,GUWAHATI,Per Trip,10 FT,,,,,,
+30/10/2026,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
+,,Per Trip,,,,,,,
