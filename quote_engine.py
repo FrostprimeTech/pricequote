@@ -21,6 +21,11 @@ ZONE_MULTIPLIERS = {
 
 DISTANCE_DIVERGENCE_WARN_THRESHOLD = 0.20
 
+# Quoted-rate display range shown alongside the headline rate: a lower
+# bound 5% below the quoted price and an upper bound 10% above it.
+QUOTE_RANGE_LOW_PCT = 0.05
+QUOTE_RANGE_HIGH_PCT = 0.10
+
 
 def fuzzy_match(value: str, choices: list[str], cutoff: float = 0.5) -> str | None:
     """Best case-insensitive fuzzy match of `value` against `choices`, or None."""
@@ -91,6 +96,8 @@ def get_quote(
 
     return {
         "rate": rate,
+        "rate_low": round(rate * (1 - QUOTE_RANGE_LOW_PCT), -1),
+        "rate_high": round(rate * (1 + QUOTE_RANGE_HIGH_PCT), -1),
         "per_km_rate": per_km_rate,
         "distance": distance,
         "distance_display": distance * 2,
@@ -122,6 +129,8 @@ def get_chat_quote(
             "zone_multiplier": multiplier,
             "base_rate": base["rate"],
             "rate": final_rate,
+            "rate_low": round(final_rate * (1 - QUOTE_RANGE_LOW_PCT), -1),
+            "rate_high": round(final_rate * (1 + QUOTE_RANGE_HIGH_PCT), -1),
         }
     )
     return base

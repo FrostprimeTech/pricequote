@@ -202,6 +202,12 @@ st.markdown(
     .quote-card.warn .price {
         color: #7A6435;
     }
+    .quote-card .range {
+        color: #8A8A85;
+        font-size: 13px;
+        font-weight: 500;
+        margin-top: 6px;
+    }
 
     [data-testid="stMetric"] {
         background: #FFFFFF;
@@ -373,6 +379,7 @@ with tab_form:
                     <div class="{card_class}">
                         <div class="label">Quoted Rate</div>
                         <div class="price">Rs.{result['rate']:,.0f}</div>
+                        <div class="range">Rs.{result['rate_low']:,.0f} - Rs.{result['rate_high']:,.0f}</div>
                     </div>
                     """,
                     unsafe_allow_html=True,
@@ -389,17 +396,15 @@ with tab_form:
                         f"- Origin: **{origin}**\n"
                         f"- Destination: **{destination}**\n"
                         f"- Vehicle: **{result['vehicle']}**\n"
-                        f"- Distance used for pricing: **{result['distance']:,.0f} km** "
-                        f"(displayed above as {result['distance_display']:,.0f} km)\n"
+                        f"- Distance : **{result['distance']:,.0f} km** "
+                        f"(distance round way {result['distance_display']:,.0f} km)\n"
                         f"- Distance band: **{result['distance_band']}**\n"
                         f"- Rate card per-km rate: **Rs.{result['per_km_rate']:,.2f}/km**\n"
                         f"- Rate = {result['per_km_rate']:,.2f} x {result['distance']:,.0f} "
                         f"= **Rs.{result['rate']:,.0f}**"
                     )
 
-# --------------------------------------------------------------------------
-# Chat tab (parked — see CHAT_QUOTE_ENABLED at top of file)
-# --------------------------------------------------------------------------
+
 if CHAT_QUOTE_ENABLED:
     with tab_chat:
         st.caption('Try: "Pune to Solapur, need a 9 ft truck" or "Patna to Siliguri 450km, 9FT"')
@@ -467,6 +472,7 @@ if CHAT_QUOTE_ENABLED:
                                     <div class="quote-card">
                                         <div class="label">Final Quoted Rate</div>
                                         <div class="price">Rs.{result['rate']:,.0f}</div>
+                                        <div class="range">Rs.{result['rate_low']:,.0f} - Rs.{result['rate_high']:,.0f}</div>
                                     </div>
                                     """,
                                     unsafe_allow_html=True,
