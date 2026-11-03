@@ -25,7 +25,7 @@ from quote_engine import (
     match_vehicle,
     resolve_distance,
 )
-from rate_card import RATE_CARD
+from rate_card import RATE_CARD, VEHICLE_TYPES
 
 st.set_page_config(page_title="Freight Rate Quote", layout="centered")
 
@@ -89,8 +89,21 @@ st.markdown(
 
     section[data-testid="stSelectbox"], div[data-testid="stNumberInput"], div[data-testid="stTextInput"] {
         background: #FFFFFF;
-        border: 1px solid #E5E5E3;
         border-radius: 6px;
+    }
+    [data-testid="stSelectbox"] [data-baseweb="select"] > div,
+    [data-testid="stNumberInput"] input,
+    [data-testid="stTextInput"] input {
+        background: #FFFFFF !important;
+        border: 1px solid #E5E5E3 !important;
+        color: #1C1C1A !important;
+    }
+    [data-testid="stSelectbox"] [data-baseweb="select"] span,
+    [data-testid="stSelectbox"] [data-baseweb="select"] div {
+        color: #1C1C1A !important;
+    }
+    [data-testid="stSelectbox"] svg {
+        fill: #1C1C1A !important;
     }
 
     label[data-testid="stWidgetLabel"] p {
@@ -102,15 +115,61 @@ st.markdown(
     }
 
     .stButton > button {
-        background: #1C1C1A;
-        color: #FAFAF9;
         font-weight: 600;
-        border: none;
         border-radius: 6px;
         padding: 9px 24px;
     }
-    .stButton > button:hover {
-        background: #3A3A36;
+
+    /* Primary buttons (selected state, main CTA): solid dark fill */
+    .stButton > button[kind="primary"],
+    [data-testid="stBaseButton-primary"] {
+        background: #1C1C1A !important;
+        border: none !important;
+        color: #FAFAF9 !important;
+    }
+    .stButton > button[kind="primary"]:hover,
+    [data-testid="stBaseButton-primary"]:hover {
+        background: #3A3A36 !important;
+        color: #FAFAF9 !important;
+    }
+    .stButton > button[kind="primary"] p,
+    .stButton > button[kind="primary"] span,
+    .stButton > button[kind="primary"] div,
+    [data-testid="stBaseButton-primary"] p,
+    [data-testid="stBaseButton-primary"] span,
+    [data-testid="stBaseButton-primary"] div {
+        color: #FAFAF9 !important;
+    }
+
+    /* Secondary buttons (unselected state): light outline */
+    .stButton > button[kind="secondary"],
+    [data-testid="stBaseButton-secondary"] {
+        background: #FFFFFF !important;
+        border: 1px solid #D8D7D2 !important;
+        color: #6B6B66 !important;
+    }
+    .stButton > button[kind="secondary"]:hover,
+    [data-testid="stBaseButton-secondary"]:hover {
+        background: #F2F1EC !important;
+        border-color: #C5C4BE !important;
+        color: #1C1C1A !important;
+    }
+    .stButton > button[kind="secondary"] p,
+    .stButton > button[kind="secondary"] span,
+    .stButton > button[kind="secondary"] div,
+    [data-testid="stBaseButton-secondary"] p,
+    [data-testid="stBaseButton-secondary"] span,
+    [data-testid="stBaseButton-secondary"] div {
+        color: inherit !important;
+    }
+
+    .field-label {
+        color: #6B6B66 !important;
+        font-weight: 600;
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 0.3px;
+        margin-bottom: 4px;
     }
 
     .quote-card {
@@ -170,9 +229,17 @@ st.markdown(
         border: 1px solid #E5E5E3;
         border-radius: 6px;
     }
-    [data-testid="stExpander"] summary {
+    [data-testid="stExpander"] summary,
+    [data-testid="stExpander"] details > summary {
+        background: #FFFFFF !important;
         color: #3A3A36 !important;
         font-weight: 600;
+    }
+    [data-testid="stExpander"] summary * {
+        color: #3A3A36 !important;
+    }
+    [data-testid="stExpander"] svg {
+        fill: #3A3A36 !important;
     }
     [data-testid="stExpander"] [data-testid="stMarkdownContainer"] p,
     [data-testid="stExpander"] [data-testid="stMarkdownContainer"] li {
@@ -227,16 +294,54 @@ else:
 # Form tab
 # --------------------------------------------------------------------------
 with tab_form:
+    if "vehicle_type" not in st.session_state:
+        st.session_state.vehicle_type = VEHICLE_TYPES[0]
+
+    st.markdown('<p class="field-label">Type</p>', unsafe_allow_html=True)
+    type_col1, type_col2 = st.columns(2)
+    with type_col1:
+        if st.button(
+            "Freezer",
+            type="primary" if st.session_state.vehicle_type == "FREEZER" else "secondary",
+            use_container_width=True,
+        ):
+            st.session_state.vehicle_type = "FREEZER"
+    with type_col2:
+        if st.button(
+            "Chiller",
+            type="primary" if st.session_state.vehicle_type == "CHILLER" else "secondary",
+            use_container_width=True,
+        ):
+            st.session_state.vehicle_type = "CHILLER"
+    vehicle_type = st.session_state.vehicle_type
+
     col1, col2 = st.columns(2)
     with col1:
-        origin = st.selectbox("Origin hub", origins)
+        origin = st.selectbox(
+            "Origin hub",
+            origins,
+            accept_new_options=True,
+            placeholder="Select or type an origin",
+        )
     with col2:
         dest_options = list(dest_by_origin.get(origin, []))
-        destination = st.selectbox("Destination", dest_options + ["(type a new destination)"])
-        if destination == "(type a new destination)":
-            destination = st.text_input("Destination name", "")
+        destination = st.selectbox(
+            "Destination",
+            dest_options,
+            accept_new_options=True,
+            placeholder="Select or type a destination",
+        )
 
-    vehicle = st.selectbox("Vehicle size", rate_card_vehicles)
+    origin = origin or ""
+    destination = destination or ""
+
+    vehicle = st.selectbox(
+        "Vehicle size",
+        rate_card_vehicles,
+        accept_new_options=True,
+        placeholder="Select or type a vehicle size",
+    )
+    vehicle = vehicle or ""
 
     default_distance = dist_lookup.get((origin, destination), 0.0)
     distance = st.number_input(
@@ -252,7 +357,7 @@ with tab_form:
             st.error("Enter a distance greater than 0.")
         else:
             try:
-                result = get_quote(origin, destination, vehicle, distance)
+                result = get_quote(origin, destination, vehicle, distance, vehicle_type)
             except ValueError as e:
                 st.error(str(e))
             else:
@@ -272,13 +377,15 @@ with tab_form:
                     """,
                     unsafe_allow_html=True,
                 )
-                m1, m2, m3 = st.columns(3)
+                m1, m2, m3, m4 = st.columns(4)
                 m1.metric("Per-KM Rate", f"Rs.{result['per_km_rate']:,.2f}")
                 m2.metric("Distance", f"{result['distance_display']:,.0f} km")
                 m3.metric("Distance Band", result["distance_band"])
+                m4.metric("Type", result["vehicle_type"].title())
 
                 with st.expander("Calculation breakdown", expanded=True):
                     st.markdown(
+                        f"- Type: **{result['vehicle_type'].title()}**\n"
                         f"- Origin: **{origin}**\n"
                         f"- Destination: **{destination}**\n"
                         f"- Vehicle: **{result['vehicle']}**\n"

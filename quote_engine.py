@@ -72,21 +72,21 @@ def resolve_chat_distance(origin: str, destination: str, dist_lookup: dict, llm_
     return result
 
 
-def get_quote(origin: str, destination: str, vehicle: str, distance: float) -> dict:
+def get_quote(
+    origin: str, destination: str, vehicle: str, distance: float, vehicle_type: str = "FREEZER"
+) -> dict:
     if distance <= 0:
         raise ValueError("Distance must be greater than 0.")
-    if origin not in MACRO_ZONE_MAP:
-        raise ValueError(f"Unknown origin hub '{origin}'.")
 
-    per_km_rate, band = lookup_rate(vehicle, distance)
+    per_km_rate, band = lookup_rate(vehicle, distance, vehicle_type)
     if per_km_rate is None:
         raise ValueError(
-            f"No rate card entry for vehicle '{vehicle}'. "
-            "Only 8FT, 9FT, 10FT, 11FT, 12FT, 14FT are supported."
+            f"No rate card entry for vehicle '{vehicle}' / type '{vehicle_type}'. "
+            "Only 8FT, 9FT, 10FT, 11FT, 12FT, 14FT (Freezer or Chiller) are supported."
         )
 
     rate = round(per_km_rate * distance, -1)
-    floor_rate = get_floor_rate(vehicle, distance)
+    floor_rate = get_floor_rate(vehicle, distance, vehicle_type)
     below_floor = per_km_rate < floor_rate
 
     return {
@@ -96,15 +96,21 @@ def get_quote(origin: str, destination: str, vehicle: str, distance: float) -> d
         "distance_display": distance * 2,
         "distance_band": band,
         "vehicle": vehicle,
+        "vehicle_type": vehicle_type,
         "floor_rate": floor_rate,
         "below_floor": below_floor,
     }
 
 
-def get_chat_quote(origin: str, destination: str, vehicle: str, distance: float) -> dict:
+def get_chat_quote(
+    origin: str, destination: str, vehicle: str, distance: float, vehicle_type: str = "FREEZER"
+) -> dict:
     """Chat Quote pricing: same rate-card lookup as get_quote, plus the
     origin's macro-zone multiplier applied on top of the base rate."""
-    base = get_quote(origin, destination, vehicle, distance)
+    if origin not in MACRO_ZONE_MAP:
+        raise ValueError(f"Unknown origin hub '{origin}' — no zone multiplier available for it.")
+
+    base = get_quote(origin, destination, vehicle, distance, vehicle_type)
 
     zone = MACRO_ZONE_MAP[origin]
     multiplier = ZONE_MULTIPLIERS[zone]
